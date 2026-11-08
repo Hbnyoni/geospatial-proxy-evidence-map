@@ -7,7 +7,7 @@ difference is stated rather than smoothed over.
 
 ## Execution dates
 
-The exports were processed into the corpus summary dated 1 April 2026, which is the latest date the searches can have been run. The exact execution date of each search is NOT recorded and must be read off the Scopus and Web of Science search histories before this deposit is published.
+All four searches were exported on **1 April 2026**, searched in titles, abstracts and keywords with no date limit. The date is not a recollection: every Scopus export file carries Scopus's own stamp `EXPORT DATE: 01 April 2026`, the original export filenames encode 01042026, and section 2.1 of the manuscript reports the same date. Web of Science writes no equivalent stamp, and its exports were taken in the same session. Citation counts carried in the records are April 2026 counts and will have risen since.
 
 ## Filters
 

@@ -1,0 +1,7 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+https://creativecommons.org/licenses/by/4.0/legalcode
+
+This licence covers the coding, the derived tables, the networks and the code in this
+deposit, which are the authors' own work. It does not and cannot extend to bibliographic
+records owned by Scopus or Web of Science; the fields those licences cover have been
+withheld and are listed in WITHHELD_FIELDS.md.

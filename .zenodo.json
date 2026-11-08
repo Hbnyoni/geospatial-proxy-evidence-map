@@ -1,0 +1,30 @@
+{
+  "title": "Geospatial proxy indicators for air-pollution exposure assessment: screened corpus, coding, evidence map and analysis code",
+  "upload_type": "dataset",
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "creators": [
+    {
+      "name": "Handsome Bongani Nyoni",
+      "affiliation": "Midlands State University; University of Cape Town"
+    },
+    {
+      "name": "Siphiwe Mphuthi",
+      "affiliation": "University of Cape Town"
+    },
+    {
+      "name": "Prestige Tatenda Makanga",
+      "affiliation": "Midlands State University; Liverpool School of Tropical Medicine; CeSHHAR Zimbabwe"
+    }
+  ],
+  "description": "Screened corpus, study-level coding, derived tables, co-occurrence networks and analysis code for a bibliometric and validation evidence map of geospatial proxy indicators used in air-pollution exposure assessment. 2217 unique records were screened and 692 included. Fields owned by Scopus and Web of Science are withheld and listed in WITHHELD_FIELDS.md.",
+  "keywords": [
+    "air pollution",
+    "exposure assessment",
+    "geospatial proxy",
+    "bibliometrics",
+    "evidence map",
+    "validation",
+    "sub-Saharan Africa"
+  ]
+}

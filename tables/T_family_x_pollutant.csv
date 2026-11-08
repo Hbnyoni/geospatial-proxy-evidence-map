@@ -1,0 +1,11 @@
+,PM2.5,PM10,NO2/NOx,O3,BC/EC,UFP,SO2,CO,VOC/PAH,Dust/metals,PM (unspecified)
+Road and traffic,126,66,201,31,93,30,26,31,39,14,64
+Land use and built environment,154,81,202,37,82,26,36,29,37,17,60
+Satellite atmospheric,47,20,52,28,9,2,22,8,11,19,38
+Vegetation and land surface,18,8,22,9,4,2,6,2,2,9,12
+Meteorology,83,34,60,30,24,10,24,21,18,18,37
+Population and settlement,52,21,71,12,19,3,16,9,13,6,18
+Fire and smoke,15,5,6,4,9,0,4,6,7,3,10
+Topography,32,25,53,24,16,6,20,10,19,14,22
+Industrial and point sources,24,15,39,13,9,3,23,8,15,11,21
+Hybrid and composite,33,18,56,16,12,2,8,13,21,7,17

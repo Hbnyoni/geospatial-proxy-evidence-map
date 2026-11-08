@@ -1,0 +1,91 @@
+{
+ "n_full": 692,
+ "n_core": 537,
+ "n_removed": 155,
+ "rows": [
+  {
+   "indicator": "Studies",
+   "full corpus": 692.0,
+   "core corpus (risk < 3)": 537.0,
+   "difference": -155.0
+  },
+  {
+   "indicator": "Sub-Saharan Africa setting (%)",
+   "full corpus": 1.734,
+   "core corpus (risk < 3)": 1.676,
+   "difference": -0.058
+  },
+  {
+   "indicator": "Reports validation (%)",
+   "full corpus": 38.006,
+   "core corpus (risk < 3)": 46.182,
+   "difference": 8.177
+  },
+  {
+   "indicator": "Spatial or external validation (% of validated)",
+   "full corpus": 10.266,
+   "core corpus (risk < 3)": 10.887,
+   "difference": 0.621
+  },
+  {
+   "indicator": "Personal exposure target (%)",
+   "full corpus": 13.873,
+   "core corpus (risk < 3)": 14.898,
+   "difference": 1.025
+  },
+  {
+   "indicator": "Dynamic proxy, 2010\u20132014 (%)",
+   "full corpus": 25.157,
+   "core corpus (risk < 3)": 23.932,
+   "difference": -1.226
+  },
+  {
+   "indicator": "Dynamic proxy, 2020\u20132026 (%)",
+   "full corpus": 62.385,
+   "core corpus (risk < 3)": 61.35,
+   "difference": -1.036
+  },
+  {
+   "indicator": "Machine learning, 2010\u20132014 (%)",
+   "full corpus": 1.887,
+   "core corpus (risk < 3)": 1.709,
+   "difference": -0.177
+  },
+  {
+   "indicator": "Machine learning, 2020\u20132026 (%)",
+   "full corpus": 37.156,
+   "core corpus (risk < 3)": 42.331,
+   "difference": 5.175
+  },
+  {
+   "indicator": "Land use family (%)",
+   "full corpus": 55.058,
+   "core corpus (risk < 3)": 58.845,
+   "difference": 3.788
+  },
+  {
+   "indicator": "Road and traffic family (%)",
+   "full corpus": 52.023,
+   "core corpus (risk < 3)": 56.238,
+   "difference": 4.215
+  },
+  {
+   "indicator": "Satellite family (%)",
+   "full corpus": 19.22,
+   "core corpus (risk < 3)": 18.436,
+   "difference": -0.784
+  },
+  {
+   "indicator": "Sensitivity-search share (%)",
+   "full corpus": 61.994,
+   "core corpus (risk < 3)": 67.225,
+   "difference": 5.231
+  },
+  {
+   "indicator": "Prominence\u2013validation \u03c1",
+   "full corpus": 0.931,
+   "core corpus (risk < 3)": 0.931,
+   "difference": -0.001
+  }
+ ]
+}

@@ -1,0 +1,145 @@
+region,family,validation,w
+East Asia & Pacific,Land use and built environment,No validation reported,13.733333333333333
+East Asia & Pacific,Land use and built environment,Random or k-fold cross-validation,3.6833333333333336
+East Asia & Pacific,Land use and built environment,"Spatial, external or temporal hold-out",1.0
+East Asia & Pacific,Land use and built environment,"Validation, design not stated",8.826190476190476
+East Asia & Pacific,Meteorology,No validation reported,9.866666666666667
+East Asia & Pacific,Meteorology,Random or k-fold cross-validation,1.9833333333333334
+East Asia & Pacific,Meteorology,"Spatial, external or temporal hold-out",0.16666666666666666
+East Asia & Pacific,Meteorology,"Validation, design not stated",4.65952380952381
+East Asia & Pacific,Other families,No validation reported,12.65
+East Asia & Pacific,Other families,Random or k-fold cross-validation,3.6
+East Asia & Pacific,Other families,"Spatial, external or temporal hold-out",0.5
+East Asia & Pacific,Other families,"Validation, design not stated",6.669047619047619
+East Asia & Pacific,Population and settlement,No validation reported,5.2
+East Asia & Pacific,Population and settlement,Random or k-fold cross-validation,0.7666666666666667
+East Asia & Pacific,Population and settlement,"Spatial, external or temporal hold-out",0.16666666666666666
+East Asia & Pacific,Population and settlement,"Validation, design not stated",2.5095238095238095
+East Asia & Pacific,Road and traffic,No validation reported,12.816666666666666
+East Asia & Pacific,Road and traffic,Random or k-fold cross-validation,1.15
+East Asia & Pacific,Road and traffic,"Spatial, external or temporal hold-out",0.16666666666666666
+East Asia & Pacific,Road and traffic,"Validation, design not stated",3.9595238095238097
+East Asia & Pacific,Satellite atmospheric,No validation reported,11.666666666666666
+East Asia & Pacific,Satellite atmospheric,Random or k-fold cross-validation,1.4833333333333334
+East Asia & Pacific,Satellite atmospheric,"Spatial, external or temporal hold-out",1.0
+East Asia & Pacific,Satellite atmospheric,"Validation, design not stated",4.2595238095238095
+East Asia & Pacific,Topography,No validation reported,5.066666666666666
+East Asia & Pacific,Topography,Random or k-fold cross-validation,1.3333333333333333
+East Asia & Pacific,Topography,"Validation, design not stated",2.1166666666666667
+Europe & Central Asia,Land use and built environment,No validation reported,21.35
+Europe & Central Asia,Land use and built environment,Random or k-fold cross-validation,5.166666666666667
+Europe & Central Asia,Land use and built environment,"Spatial, external or temporal hold-out",2.75
+Europe & Central Asia,Land use and built environment,"Validation, design not stated",10.209523809523809
+Europe & Central Asia,Meteorology,No validation reported,3.9
+Europe & Central Asia,Meteorology,Random or k-fold cross-validation,1.25
+Europe & Central Asia,Meteorology,"Spatial, external or temporal hold-out",1.5
+Europe & Central Asia,Meteorology,"Validation, design not stated",4.1761904761904765
+Europe & Central Asia,Other families,No validation reported,15.35
+Europe & Central Asia,Other families,Random or k-fold cross-validation,0.5833333333333333
+Europe & Central Asia,Other families,"Spatial, external or temporal hold-out",0.25
+Europe & Central Asia,Other families,"Validation, design not stated",4.876190476190476
+Europe & Central Asia,Population and settlement,No validation reported,8.233333333333333
+Europe & Central Asia,Population and settlement,Random or k-fold cross-validation,0.5833333333333333
+Europe & Central Asia,Population and settlement,"Spatial, external or temporal hold-out",0.5833333333333333
+Europe & Central Asia,Population and settlement,"Validation, design not stated",2.926190476190476
+Europe & Central Asia,Road and traffic,No validation reported,25.183333333333334
+Europe & Central Asia,Road and traffic,Random or k-fold cross-validation,3.1666666666666665
+Europe & Central Asia,Road and traffic,"Spatial, external or temporal hold-out",1.5
+Europe & Central Asia,Road and traffic,"Validation, design not stated",10.376190476190477
+Europe & Central Asia,Satellite atmospheric,No validation reported,4.583333333333333
+Europe & Central Asia,Satellite atmospheric,Random or k-fold cross-validation,0.5
+Europe & Central Asia,Satellite atmospheric,"Spatial, external or temporal hold-out",0.25
+Europe & Central Asia,Satellite atmospheric,"Validation, design not stated",1.476190476190476
+Europe & Central Asia,Topography,No validation reported,4.4
+Europe & Central Asia,Topography,Random or k-fold cross-validation,0.75
+Europe & Central Asia,Topography,"Spatial, external or temporal hold-out",1.1666666666666665
+Europe & Central Asia,Topography,"Validation, design not stated",1.9595238095238094
+"Global, multi-region or not stated",Land use and built environment,No validation reported,26.333333333333332
+"Global, multi-region or not stated",Land use and built environment,Random or k-fold cross-validation,3.283333333333333
+"Global, multi-region or not stated",Land use and built environment,"Spatial, external or temporal hold-out",4.416666666666666
+"Global, multi-region or not stated",Land use and built environment,"Validation, design not stated",10.483333333333333
+"Global, multi-region or not stated",Meteorology,No validation reported,11.783333333333333
+"Global, multi-region or not stated",Meteorology,Random or k-fold cross-validation,1.2
+"Global, multi-region or not stated",Meteorology,"Spatial, external or temporal hold-out",2.0
+"Global, multi-region or not stated",Meteorology,"Validation, design not stated",3.95
+"Global, multi-region or not stated",Other families,No validation reported,25.266666666666666
+"Global, multi-region or not stated",Other families,Random or k-fold cross-validation,1.4
+"Global, multi-region or not stated",Other families,"Spatial, external or temporal hold-out",3.833333333333333
+"Global, multi-region or not stated",Other families,"Validation, design not stated",10.25
+"Global, multi-region or not stated",Population and settlement,No validation reported,11.166666666666666
+"Global, multi-region or not stated",Population and settlement,Random or k-fold cross-validation,0.5833333333333333
+"Global, multi-region or not stated",Population and settlement,"Spatial, external or temporal hold-out",0.3333333333333333
+"Global, multi-region or not stated",Population and settlement,"Validation, design not stated",2.7666666666666666
+"Global, multi-region or not stated",Road and traffic,No validation reported,31.833333333333332
+"Global, multi-region or not stated",Road and traffic,Random or k-fold cross-validation,3.083333333333333
+"Global, multi-region or not stated",Road and traffic,"Spatial, external or temporal hold-out",0.5
+"Global, multi-region or not stated",Road and traffic,"Validation, design not stated",10.566666666666666
+"Global, multi-region or not stated",Satellite atmospheric,No validation reported,9.25
+"Global, multi-region or not stated",Satellite atmospheric,Random or k-fold cross-validation,0.45
+"Global, multi-region or not stated",Satellite atmospheric,"Spatial, external or temporal hold-out",3.9166666666666665
+"Global, multi-region or not stated",Satellite atmospheric,"Validation, design not stated",5.816666666666666
+"Global, multi-region or not stated",Topography,No validation reported,5.366666666666666
+"Global, multi-region or not stated",Topography,"Validation, design not stated",4.166666666666666
+North America,Land use and built environment,No validation reported,23.05
+North America,Land use and built environment,Random or k-fold cross-validation,5.183333333333334
+North America,Land use and built environment,"Spatial, external or temporal hold-out",3.783333333333333
+North America,Land use and built environment,"Validation, design not stated",11.283333333333333
+North America,Meteorology,No validation reported,10.633333333333333
+North America,Meteorology,Random or k-fold cross-validation,4.283333333333333
+North America,Meteorology,"Spatial, external or temporal hold-out",0.9833333333333334
+North America,Meteorology,"Validation, design not stated",2.6166666666666667
+North America,Other families,No validation reported,20.133333333333333
+North America,Other families,Random or k-fold cross-validation,3.4
+North America,Other families,"Spatial, external or temporal hold-out",1.5
+North America,Other families,"Validation, design not stated",5.95
+North America,Population and settlement,No validation reported,12.9
+North America,Population and settlement,Random or k-fold cross-validation,0.9
+North America,Population and settlement,"Validation, design not stated",3.333333333333333
+North America,Road and traffic,No validation reported,37.016666666666666
+North America,Road and traffic,Random or k-fold cross-validation,6.183333333333334
+North America,Road and traffic,"Spatial, external or temporal hold-out",1.3333333333333333
+North America,Road and traffic,"Validation, design not stated",8.483333333333333
+North America,Satellite atmospheric,No validation reported,5.533333333333333
+North America,Satellite atmospheric,Random or k-fold cross-validation,0.7
+North America,Satellite atmospheric,"Validation, design not stated",1.4166666666666665
+North America,Topography,No validation reported,6.733333333333333
+North America,Topography,Random or k-fold cross-validation,1.35
+North America,Topography,"Spatial, external or temporal hold-out",0.4
+North America,Topography,"Validation, design not stated",2.9166666666666665
+Other low- and middle-income regions,Land use and built environment,No validation reported,7.116666666666666
+Other low- and middle-income regions,Land use and built environment,Random or k-fold cross-validation,0.75
+Other low- and middle-income regions,Land use and built environment,"Validation, design not stated",2.6666666666666665
+Other low- and middle-income regions,Meteorology,No validation reported,3.4499999999999997
+Other low- and middle-income regions,Meteorology,Random or k-fold cross-validation,0.25
+Other low- and middle-income regions,Meteorology,"Spatial, external or temporal hold-out",1.0
+Other low- and middle-income regions,Meteorology,"Validation, design not stated",2.333333333333333
+Other low- and middle-income regions,Other families,No validation reported,6.116666666666666
+Other low- and middle-income regions,Other families,Random or k-fold cross-validation,0.5
+Other low- and middle-income regions,Other families,"Validation, design not stated",1.9166666666666665
+Other low- and middle-income regions,Population and settlement,No validation reported,1.5333333333333332
+Other low- and middle-income regions,Population and settlement,Random or k-fold cross-validation,0.5
+Other low- and middle-income regions,Population and settlement,"Validation, design not stated",0.5
+Other low- and middle-income regions,Road and traffic,No validation reported,5.833333333333333
+Other low- and middle-income regions,Road and traffic,Random or k-fold cross-validation,0.5
+Other low- and middle-income regions,Road and traffic,"Validation, design not stated",2.083333333333333
+Other low- and middle-income regions,Satellite atmospheric,No validation reported,1.8666666666666667
+Other low- and middle-income regions,Satellite atmospheric,Random or k-fold cross-validation,1.25
+Other low- and middle-income regions,Satellite atmospheric,"Validation, design not stated",1.5
+Other low- and middle-income regions,Topography,No validation reported,2.083333333333333
+Other low- and middle-income regions,Topography,Random or k-fold cross-validation,0.25
+Sub-Saharan Africa,Land use and built environment,No validation reported,1.3333333333333333
+Sub-Saharan Africa,Land use and built environment,Random or k-fold cross-validation,0.75
+Sub-Saharan Africa,Land use and built environment,"Validation, design not stated",0.2
+Sub-Saharan Africa,Meteorology,No validation reported,1.3333333333333333
+Sub-Saharan Africa,Meteorology,Random or k-fold cross-validation,0.25
+Sub-Saharan Africa,Meteorology,"Validation, design not stated",0.5
+Sub-Saharan Africa,Other families,No validation reported,0.3333333333333333
+Sub-Saharan Africa,Other families,Random or k-fold cross-validation,0.25
+Sub-Saharan Africa,Other families,"Validation, design not stated",0.2
+Sub-Saharan Africa,Population and settlement,Random or k-fold cross-validation,1.25
+Sub-Saharan Africa,Population and settlement,"Validation, design not stated",0.7
+Sub-Saharan Africa,Road and traffic,No validation reported,1.8333333333333333
+Sub-Saharan Africa,Road and traffic,Random or k-fold cross-validation,0.5
+Sub-Saharan Africa,Road and traffic,"Validation, design not stated",0.2
+Sub-Saharan Africa,Satellite atmospheric,No validation reported,2.1666666666666665
+Sub-Saharan Africa,Topography,"Validation, design not stated",0.2

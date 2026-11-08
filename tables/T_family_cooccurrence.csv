@@ -1,0 +1,11 @@
+,Road and traffic,Land use and built environment,Satellite atmospheric,Vegetation and land surface,Meteorology,Population and settlement,Fire and smoke,Topography,Industrial and point sources,Hybrid and composite
+Road and traffic,360,245,22,19,77,81,8,50,47,57
+Land use and built environment,245,381,56,28,97,91,12,63,50,51
+Satellite atmospheric,22,56,133,25,52,21,12,29,23,15
+Vegetation and land surface,19,28,25,50,25,7,1,16,11,4
+Meteorology,77,97,52,25,190,32,11,50,38,38
+Population and settlement,81,91,21,7,32,141,8,25,24,14
+Fire and smoke,8,12,12,1,11,8,36,6,13,8
+Topography,50,63,29,16,50,25,6,112,17,17
+Industrial and point sources,47,50,23,11,38,24,13,17,94,25
+Hybrid and composite,57,51,15,4,38,14,8,17,25,104

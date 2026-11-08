@@ -1,0 +1,67 @@
+iso3,studies,country,region,income
+USA,166,United States,NAM,H
+CHN,99,China,EAP,UM
+CAN,56,Canada,NAM,H
+GBR,38,United Kingdom,ECA,H
+DEU,35,Germany,ECA,H
+CHE,32,Switzerland,ECA,H
+ITA,24,Italy,ECA,H
+IND,22,India,SAS,LM
+NLD,21,Netherlands,ECA,H
+IRN,20,Iran,MENA,UM
+TWN,14,Taiwan,EAP,H
+ESP,13,Spain,ECA,H
+SWE,12,Sweden,ECA,H
+KOR,12,South Korea,EAP,H
+IDN,10,Indonesia,EAP,UM
+FRA,9,France,ECA,H
+NOR,8,Norway,ECA,H
+MEX,7,Mexico,LAC,UM
+AUS,7,Australia,EAP,H
+DNK,6,Denmark,ECA,H
+BRA,6,Brazil,LAC,UM
+ZAF,5,South Africa,SSA,UM
+JPN,5,Japan,EAP,H
+THA,4,Thailand,EAP,UM
+FIN,4,Finland,ECA,H
+CHL,4,Chile,LAC,H
+GRC,4,Greece,ECA,H
+BEL,3,Belgium,ECA,H
+IRL,3,Ireland,ECA,H
+NPL,3,Nepal,SAS,LM
+KEN,2,Kenya,SSA,LM
+IRQ,2,Iraq,MENA,UM
+HRV,2,Croatia,ECA,H
+BGD,2,Bangladesh,SAS,LM
+NZL,2,New Zealand,EAP,H
+TZA,2,Tanzania,SSA,LM
+ISR,2,Israel,MENA,H
+SGP,2,Singapore,EAP,H
+PRT,2,Portugal,ECA,H
+LTU,2,Lithuania,ECA,H
+KWT,1,Kuwait,MENA,H
+PAK,1,Pakistan,SAS,LM
+AUT,1,Austria,ECA,H
+ARE,1,United Arab Emirates,MENA,H
+AFG,1,Afghanistan,SAS,L
+GHA,1,Ghana,SSA,LM
+CMR,1,Cameroon,SSA,LM
+ZWE,1,Zimbabwe,SSA,LM
+COL,1,Colombia,LAC,UM
+JOR,1,Jordan,MENA,LM
+UZB,1,Uzbekistan,ECA,LM
+QAT,1,Qatar,MENA,H
+ECU,1,Ecuador,LAC,UM
+NGA,1,Nigeria,SSA,LM
+SAU,1,Saudi Arabia,MENA,H
+SYR,1,Syria,MENA,L
+TUR,1,Turkey,ECA,UM
+PRI,1,Puerto Rico,LAC,H
+CZE,1,Czechia,ECA,H
+SRB,1,Serbia,ECA,UM
+UGA,1,Uganda,SSA,L
+PER,1,Peru,LAC,UM
+MNG,1,Mongolia,EAP,UM
+ETH,1,Ethiopia,SSA,L
+EST,1,Estonia,ECA,H
+ISL,1,Iceland,ECA,H

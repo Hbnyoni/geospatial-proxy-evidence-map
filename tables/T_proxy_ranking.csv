@@ -1,0 +1,38 @@
+rank,proxy,family,records,share,centrality,validation_records,validation_rate,spatial_or_external_val,personal_records,ssa_records,share_since_2015,aggregate,dynamic,prominence,validation_score,priority
+1,Land use or land cover class,Land use and built environment,219,0.316,0.479,139,0.635,17,21,4,0.571,False,False,0.986,1.0,0.993
+2,Land-use regression predictors,Land use and built environment,233,0.337,0.471,131,0.562,16,29,3,0.498,True,False,0.986,0.973,0.98
+3,Built-up or impervious surface,Land use and built environment,172,0.249,0.334,79,0.459,8,18,4,0.576,False,False,0.946,0.939,0.942
+4,Traffic (unspecified),Road and traffic,135,0.195,0.233,52,0.385,6,25,0,0.363,True,False,0.892,0.885,0.889
+5,Elevation and terrain,Topography,111,0.16,0.213,52,0.468,5,12,1,0.514,False,False,0.858,0.858,0.858
+6,Distance or proximity to roads,Road and traffic,158,0.228,0.277,51,0.323,1,14,4,0.462,False,False,0.919,0.682,0.8
+7,Traffic volume or intensity,Road and traffic,107,0.155,0.213,50,0.467,2,12,1,0.299,False,True,0.845,0.75,0.798
+8,Reanalysis or NWP fields,Meteorology,77,0.111,0.148,37,0.481,8,4,2,0.792,False,True,0.743,0.851,0.797
+9,Population density,Population and settlement,88,0.127,0.207,47,0.534,4,9,1,0.523,False,False,0.797,0.791,0.794
+10,Chemical-transport or dispersion model output,Hybrid and composite,91,0.132,0.142,37,0.407,6,9,0,0.418,False,False,0.743,0.818,0.78
+11,Wind,Meteorology,87,0.126,0.17,35,0.402,1,11,2,0.563,False,True,0.77,0.615,0.692
+12,Industrial or point-source proximity,Industrial and point sources,72,0.104,0.147,32,0.444,2,3,0,0.569,False,False,0.716,0.655,0.686
+13,Satellite remote sensing (general),Satellite atmospheric,64,0.092,0.1,29,0.453,4,5,1,0.75,True,True,0.642,0.696,0.669
+14,Aerosol optical depth,Satellite atmospheric,53,0.077,0.064,22,0.415,6,1,3,0.811,False,True,0.581,0.73,0.656
+15,Temperature,Meteorology,64,0.092,0.114,33,0.516,1,5,3,0.672,False,True,0.655,0.595,0.625
+16,"Industrial, commercial or port land",Land use and built environment,49,0.071,0.144,33,0.673,1,4,3,0.592,False,False,0.649,0.595,0.622
+17,Composite index or data fusion,Hybrid and composite,19,0.027,0.042,12,0.632,3,3,0,0.579,False,False,0.392,0.608,0.5
+18,Green space or tree canopy,Vegetation and land surface,28,0.04,0.062,12,0.429,1,2,1,0.821,False,False,0.5,0.493,0.496
+19,Humidity and precipitation,Meteorology,44,0.064,0.084,20,0.455,0,3,1,0.727,False,True,0.568,0.385,0.476
+20,Road density or length,Road and traffic,34,0.049,0.091,15,0.441,0,1,1,0.706,False,False,0.554,0.372,0.463
+21,Settlement and socio-economic status,Population and settlement,39,0.056,0.059,7,0.179,1,7,0,0.487,False,False,0.514,0.399,0.456
+22,Emission inventory,Industrial and point sources,27,0.039,0.034,11,0.407,1,1,1,0.667,False,False,0.432,0.459,0.446
+23,"Vegetation index (NDVI, EVI)",Vegetation and land surface,25,0.036,0.047,12,0.48,0,0,1,1.0,False,True,0.446,0.345,0.395
+24,"Stability, inversion, radiation",Meteorology,14,0.02,0.028,7,0.5,2,0,0,0.571,False,True,0.311,0.48,0.395
+25,Other satellite trace gas,Satellite atmospheric,12,0.017,0.02,9,0.75,2,0,0,1.0,False,True,0.27,0.507,0.388
+26,Household fuel use,Population and settlement,21,0.03,0.031,11,0.524,0,4,4,0.714,False,False,0.385,0.311,0.348
+27,Biomass and open burning,Fire and smoke,21,0.03,0.025,7,0.333,0,0,0,0.714,False,True,0.358,0.25,0.304
+28,Tropospheric NO2 column,Satellite atmospheric,16,0.023,0.018,10,0.625,0,1,1,0.812,False,True,0.284,0.291,0.288
+29,Boundary-layer height,Meteorology,9,0.013,0.018,2,0.222,1,1,0,0.667,False,True,0.223,0.284,0.254
+30,Wildfire smoke,Fire and smoke,16,0.023,0.015,5,0.312,0,4,0,0.812,False,True,0.25,0.209,0.229
+31,Street configuration,Road and traffic,7,0.01,0.016,5,0.714,0,0,0,0.286,False,False,0.162,0.209,0.186
+32,Other land-surface state,Vegetation and land surface,8,0.012,0.008,5,0.625,0,0,0,1.0,False,False,0.095,0.209,0.152
+33,Land surface temperature,Vegetation and land surface,4,0.006,0.011,4,1.0,0,0,0,1.0,False,True,0.115,0.176,0.146
+34,Fire activity and burned area,Fire and smoke,9,0.013,0.01,2,0.222,0,0,1,0.889,False,True,0.155,0.135,0.145
+35,Visibility or visual range,Meteorology,9,0.013,0.006,4,0.444,0,0,1,0.444,False,True,0.108,0.176,0.142
+36,Night-time lights,Population and settlement,4,0.006,0.01,1,0.25,0,0,0,1.0,False,False,0.095,0.115,0.105
+37,Distance to coast or water,Topography,3,0.004,0.009,3,1.0,0,0,0,0.667,False,False,0.054,0.155,0.104

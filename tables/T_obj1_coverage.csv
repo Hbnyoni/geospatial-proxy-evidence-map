@@ -1,0 +1,35 @@
+literature_proxy,rank,family,records,validated,ssa,n_candidates,selected_any_pool
+Land use or land cover class,1,Land use and built environment,219,139,4,2,False
+Built-up or impervious surface,3,Land use and built environment,172,79,4,6,False
+Elevation and terrain,5,Topography,111,52,1,4,False
+Distance or proximity to roads,6,Road and traffic,158,51,4,4,True
+Traffic volume or intensity,7,Road and traffic,107,50,1,0,False
+Reanalysis or NWP fields,8,Meteorology,77,37,2,18,True
+Population density,9,Population and settlement,88,47,1,2,False
+Chemical-transport or dispersion model output,10,Hybrid and composite,91,37,0,0,False
+Wind,11,Meteorology,87,35,2,3,True
+Industrial or point-source proximity,12,Industrial and point sources,72,32,0,0,False
+Aerosol optical depth,14,Satellite atmospheric,53,22,3,2,True
+Temperature,15,Meteorology,64,33,3,3,True
+"Industrial, commercial or port land",16,Land use and built environment,49,33,3,2,False
+Composite index or data fusion,17,Hybrid and composite,19,12,0,0,False
+Green space or tree canopy,18,Vegetation and land surface,28,12,1,0,False
+Humidity and precipitation,19,Meteorology,44,20,1,4,True
+Road density or length,20,Road and traffic,34,15,1,3,True
+Settlement and socio-economic status,21,Population and settlement,39,7,0,2,False
+Emission inventory,22,Industrial and point sources,27,11,1,0,False
+"Vegetation index (NDVI, EVI)",23,Vegetation and land surface,25,12,1,2,False
+"Stability, inversion, radiation",24,Meteorology,14,7,0,3,True
+Other satellite trace gas,25,Satellite atmospheric,12,9,0,3,True
+Household fuel use,26,Population and settlement,21,11,4,0,False
+Biomass and open burning,27,Fire and smoke,21,7,0,0,False
+Tropospheric NO2 column,28,Satellite atmospheric,16,10,1,1,False
+Boundary-layer height,29,Meteorology,9,2,0,4,True
+Wildfire smoke,30,Fire and smoke,16,5,0,0,False
+Street configuration,31,Road and traffic,7,5,0,0,False
+Other land-surface state,32,Vegetation and land surface,8,5,0,3,True
+Land surface temperature,33,Vegetation and land surface,4,4,0,2,True
+Fire activity and burned area,34,Fire and smoke,9,2,1,3,True
+Visibility or visual range,35,Meteorology,9,4,1,0,False
+Night-time lights,36,Population and settlement,4,1,0,2,True
+Distance to coast or water,37,Topography,3,3,0,0,False

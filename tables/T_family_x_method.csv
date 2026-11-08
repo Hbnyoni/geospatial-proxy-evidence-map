@@ -1,0 +1,11 @@
+,Land-use regression,Dispersion modelling,Chemical-transport modelling,Satellite-to-surface estimation,Geostatistics and interpolation,Machine learning,Spatial regression and GWR,"Statistical regression (GAM, mixed)",Proximity and buffer metrics,Personal or mobile monitoring
+Road and traffic,165,46,5,6,36,26,3,182,98,40
+Land use and built environment,233,35,6,19,48,41,9,215,84,46
+Satellite atmospheric,27,3,7,39,20,43,6,43,11,7
+Vegetation and land surface,14,1,2,7,7,18,4,20,17,4
+Meteorology,48,18,14,12,30,47,6,68,25,19
+Population and settlement,54,9,1,10,13,11,5,72,19,13
+Fire and smoke,3,2,6,1,2,4,0,3,3,3
+Topography,41,11,5,5,17,18,4,52,16,10
+Industrial and point sources,29,14,12,6,12,18,2,28,20,2
+Hybrid and composite,25,62,26,4,16,18,0,24,19,8

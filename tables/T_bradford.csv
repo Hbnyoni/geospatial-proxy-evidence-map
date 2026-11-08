@@ -1,0 +1,212 @@
+source,n,rank,cum,zone
+Atmospheric Environment,80,1,80,1
+Science of the Total Environment,50,2,130,1
+Environmental Health Perspectives,40,3,170,1
+Environmental Science and Technology,30,4,200,1
+Environmental Research,28,5,228,1
+Atmospheric Chemistry and Physics,20,6,248,2
+Environmental Health: a Global Access Science Source,19,7,267,2
+Journal of the Air and Waste Management Association,17,8,284,2
+Journal of Exposure Science and Environmental Epidemiology,16,9,300,2
+International Journal of Environmental Research and Public Health,14,10,314,2
+Environmental Pollution,14,11,328,2
+Environment International,14,12,342,2
+Atmospheric Pollution Research,12,13,354,2
+Atmosphere,10,14,364,2
+Occupational and Environmental Medicine,9,15,373,2
+Epidemiology,7,16,380,2
+American Journal of Respiratory and Critical Care Medicine,6,17,386,2
+"Air Quality, Atmosphere and Health",6,18,392,2
+Environmental Modelling and Software,5,19,397,2
+Environmetrics,5,20,402,2
+Ecotoxicology and Environmental Safety,5,21,407,2
+Journal of Exposure Analysis and Environmental Epidemiology,5,22,412,2
+International Journal of Hygiene and Environmental Health,5,23,417,2
+Annals of Applied Statistics,5,24,422,2
+Environmental Monitoring and Assessment,5,25,427,2
+Bmc Public Health,5,26,432,2
+Plos One,4,27,436,2
+Sustainable Cities and Society,4,28,440,2
+European Respiratory Journal,4,29,444,2
+Remote Sensing,4,30,448,2
+Peerj,4,31,452,2
+Urban Climate,3,32,455,2
+Atmospheric Environment: X,3,33,458,2
+Journal of Cleaner Production,3,34,461,2
+Scientific Data,3,35,464,3
+Journal of Geophysical Research Atmospheres,3,36,467,3
+Thorax,3,37,470,3
+Journal of Toxicology and Environmental Health - Part A: Current Issues,3,38,473,3
+International Journal of Environmental Health Research,3,39,476,3
+Sustainability (switzerland),3,40,479,3
+American Journal of Epidemiology,3,41,482,3
+Environmental Science and Pollution Research,3,42,485,3
+Transportation Research Part D: Transport and Environment,3,43,488,3
+Scientific Reports,3,44,491,3
+Geohealth,2,45,493,3
+Wit Transactions on Ecology and the Environment,2,46,495,3
+Geoscientific Model Development,2,47,497,3
+Human Reproduction,2,48,499,3
+Aerosol and Air Quality Research,2,49,501,3
+Environmental Advances,2,50,503,3
+Applied Sciences (switzerland),2,51,505,3
+Journal of the Air \and Waste Management Association,2,52,507,3
+International Journal of Applied Earth Observation and Geoinformation,2,53,509,3
+Environmental and Ecological Statistics,2,54,511,3
+Pediatric Allergy and Immunology,2,55,513,3
+Journal of Environmental Monitoring,2,56,515,3
+Revue D'epidemiologie Et De Sante Publique,2,57,517,3
+Journal of Occupational and Environmental Medicine,2,58,519,3
+Journal of Toxicology and Environmental Health - Part a,2,59,521,3
+Journal of Allergy and Clinical Immunology,2,60,523,3
+Journal of Epidemiology and Community Health,2,61,525,3
+"Water, Air, and Soil Pollution",2,62,527,3
+Journal of Environmental Management,2,63,529,3
+Journal of Environmental Sciences (china),2,64,531,3
+Indoor Air,2,65,533,3
+Building and Environment,2,66,535,3
+Journal of Applied Remote Sensing,2,67,537,3
+Isprs International Journal of Geo-information,2,68,539,3
+Transportation Research Record,2,69,541,3
+International Journal of Epidemiology,2,70,543,3
+Advances in Meteorology,2,71,545,3
+Current Environmental Health Reports,2,72,547,3
+Journal of Geophysical Research: Atmospheres,2,73,549,3
+Atmosfera,2,74,551,3
+Chemosphere,2,75,553,3
+Journal of Occupational and Environmental Hygiene,2,76,555,3
+Toxics,2,77,557,3
+Environmental Epidemiology,2,78,559,3
+City and Environment Interactions,1,79,560,3
+Journal of Geophysical Research,1,80,561,3
+Biogeosciences,1,81,562,3
+Earth System Science Data,1,82,563,3
+Biometrics,1,83,564,3
+Journal of Applied Meteorology,1,84,565,3
+Proceedings of the National Academy of Sciences of the United States of America,1,85,566,3
+European Journal of Preventive Cardiology,1,86,567,3
+Lancet Planetary Health,1,87,568,3
+Earth Science Informatics,1,88,569,3
+Data in Brief,1,89,570,3
+International Journal of Occupational and Environmental Health,1,90,571,3
+Earth and Space Science,1,91,572,3
+Frontiers in Earth Science,1,92,573,3
+Pediatric Research,1,93,574,3
+Transportation Research Interdisciplinary Perspectives,1,94,575,3
+Guangxue Xuebao/acta Optica Sinica,1,95,576,3
+Frontiers in Big Data,1,96,577,3
+American Journal of Transplantation,1,97,578,3
+Cancers,1,98,579,3
+Tropical Conservation Science,1,99,580,3
+"Air, Soil and Water Research",1,100,581,3
+Journal of Environmental and Earth Sciences,1,101,582,3
+Journal of the Meteorological Society of Japan,1,102,583,3
+Frontiers in Forests and Global Change,1,103,584,3
+Ieee Internet of Things Journal,1,104,585,3
+Frontiers of Environmental Science and Engineering,1,105,586,3
+Remote Sensing of Environment,1,106,587,3
+Environmental Research Communications,1,107,588,3
+International Journal of Environmental Research,1,108,589,3
+Environmental Sciences: Processes and Impacts,1,109,590,3
+Npj Climate and Atmospheric Science,1,110,591,3
+Canadian Journal of Chemical Engineering,1,111,592,3
+Annals of Work Exposures and Health,1,112,593,3
+Science Bulletin,1,113,594,3
+Nato Science for Peace and Security Series C: Environmental Security,1,114,595,3
+Journal of Environmental Planning and Management,1,115,596,3
+Korean Journal of Remote Sensing,1,116,597,3
+Biological Conservation,1,117,598,3
+Acs Earth and Space Chemistry,1,118,599,3
+Journal of Geophysical Research-atmospheres,1,119,600,3
+Fresenius Environmental Bulletin,1,120,601,3
+Environmental Modelling \and Software,1,121,602,3
+Environmental Health,1,122,603,3
+Medical Journal of Australia,1,123,604,3
+Journal of Asthma,1,124,605,3
+Journal of the Royal Statistical Society. Series C: Applied Statistics,1,125,606,3
+Journal of Advanced Research,1,126,607,3
+American Chemical Society Environmental Science and Technology Air,1,127,608,3
+Management of Environmental Quality,1,128,609,3
+Geoscience Frontiers,1,129,610,3
+International Journal of Digital Earth,1,130,611,3
+Land,1,131,612,3
+Advances in Space Research,1,132,613,3
+Atmospheric Research,1,133,614,3
+Heliyon,1,134,615,3
+Journal of Hazardous Materials,1,135,616,3
+International Journal of Cancer,1,136,617,3
+Atmospheric Measurement Techniques,1,137,618,3
+Preventive Veterinary Medicine,1,138,619,3
+Waste Management,1,139,620,3
+Acs Symposium Series,1,140,621,3
+Toxicology,1,141,622,3
+Southeast Asian Journal of Tropical Medicine and Public Health,1,142,623,3
+"Journal of Agricultural, Biological, and Environmental Statistics",1,143,624,3
+New Zealand Geographer,1,144,625,3
+Journal of Public Health (united Kingdom),1,145,626,3
+Ieee Transactions on Geoscience and Remote Sensing,1,146,627,3
+Scienceasia,1,147,628,3
+Frontiers in Marine Science,1,148,629,3
+Current Pollution Reports,1,149,630,3
+Zhongguo Huanjing Kexue/china Environmental Science,1,150,631,3
+Journal of the Geographical Institute Jovan Cvijic Sasa,1,151,632,3
+Cancer Causes and Control,1,152,633,3
+Journal of Transport and Health,1,153,634,3
+Huanjing Kexue/environmental Science,1,154,635,3
+Journal of the Indian Society of Remote Sensing,1,155,636,3
+International Journal of Climatology,1,156,637,3
+Chinese Journal of Pediatrics,1,157,638,3
+Journal of Meteorological Research,1,158,639,3
+Ecological Indicators,1,159,640,3
+Environmental Modeling and Assessment,1,160,641,3
+Paediatric and Perinatal Epidemiology,1,161,642,3
+International Journal of Advanced Computer Science and Applications,1,162,643,3
+Journal of Geo-information Science,1,163,644,3
+Chinese Geographical Science,1,164,645,3
+International Journal of Wildland Fire,1,165,646,3
+Geomatics,1,166,647,3
+Clinical Journal of the American Society of Nephrology,1,167,648,3
+Ieee Journal of Selected Topics in Applied Earth Observations and Remote Sensing,1,168,649,3
+Suranaree Journal of Science and Technology,1,169,650,3
+American Journal of Respiratory Cell and Molecular Biology,1,170,651,3
+Sapiens,1,171,652,3
+Journal of Transport Geography,1,172,653,3
+Journal of Environmental Science and Health - Part a Toxic/hazardous Substances and Environmental Engineering,1,173,654,3
+Clinical and Experimental Allergy,1,174,655,3
+Applied Geography,1,175,656,3
+Environmental Technology and Innovation,1,176,657,3
+Stochastic Environmental Research and Risk Assessment,1,177,658,3
+Journal of Arid Environments,1,178,659,3
+"Computers, Environment and Urban Systems",1,179,660,3
+International Journal of Health Geographics,1,180,661,3
+Transactions of the Institute of British Geographers,1,181,662,3
+Wuhan Daxue Xuebao (xinxi Kexue Ban)/geomatics and Information Science of Wuhan University,1,182,663,3
+International Journal of Environmental Studies,1,183,664,3
+Inhalation Toxicology,1,184,665,3
+Environmental Justice,1,185,666,3
+Biostatistics,1,186,667,3
+Reviews of Environmental Contamination and Toxicology,1,187,668,3
+Journal of Urban Health,1,188,669,3
+Lancet,1,189,670,3
+Reviews on Environmental Health,1,190,671,3
+Ethiopian Journal of Health Development,1,191,672,3
+Journal of Dermatological Science,1,192,673,3
+Korean Journal of Pediatrics,1,193,674,3
+Polish Journal of Environmental Studies,1,194,675,3
+Journal of Environmental Studies,1,195,676,3
+Immunity and Ageing,1,196,677,3
+Bmj Open,1,197,678,3
+American Journal of Public Health,1,198,679,3
+World Medical and Health Policy,1,199,680,3
+Lancet Oncology,1,200,681,3
+Bulletin De L'academie Nationale De Medecine,1,201,682,3
+Revue Des Maladies Respiratoires,1,202,683,3
+Digestive Diseases and Sciences,1,203,684,3
+European Journal of Epidemiology,1,204,685,3
+Journal of the Royal Statistical Society. Series B: Statistical Methodology,1,205,686,3
+Journal of Environmental Sciences,1,206,687,3
+Current Opinion in Pulmonary Medicine,1,207,688,3
+International Journal of Environment and Pollution,1,208,689,3
+Engenharia Sanitaria E Ambiental,1,209,690,3
+Geojournal,1,210,691,3
+Bmj Open Respiratory Research,1,211,692,3

@@ -1,0 +1,38 @@
+keyword,n,q1,median,q3
+vehicle emissions,8,2006.25,2007.5,2011.25
+allergy,6,2007.25,2008.0,2009.5
+spatial analysis,6,2007.0,2008.0,2015.75
+GIS,65,2007.0,2009.0,2013.0
+asthma,25,2008.0,2010.0,2015.0
+dispersion model,17,2008.0,2010.0,2017.0
+traffic,65,2007.0,2010.0,2017.0
+pregnancy,10,2009.25,2010.5,2016.75
+exposure assessment,78,2007.0,2011.0,2017.0
+children,16,2008.5,2011.5,2014.0
+epidemiology,34,2005.25,2011.5,2016.75
+environmental exposure,7,2012.0,2012.0,2018.0
+spatial variability,15,2009.5,2013.0,2015.5
+ozone,11,2006.0,2013.0,2016.5
+VOCs,7,2009.0,2013.0,2016.0
+particulate matter,57,2009.0,2014.0,2020.0
+NOx,15,2012.5,2014.0,2017.0
+NO2,62,2009.0,2014.0,2019.0
+geostatistics,12,2009.0,2014.5,2016.0
+land use regression,98,2011.0,2016.0,2020.0
+spatiotemporal modelling,18,2010.25,2016.5,2022.75
+traffic-related air pollution,18,2010.75,2016.5,2019.75
+mortality,13,2009.0,2017.0,2019.0
+health effects,11,2010.5,2018.0,2021.5
+PM2.5,66,2013.0,2018.0,2021.0
+personal exposure,10,2012.75,2018.0,2021.25
+black carbon,23,2014.0,2018.0,2022.0
+ultrafine particles,15,2013.5,2018.0,2024.0
+PM10,11,2013.0,2018.0,2019.0
+long-term exposure,9,2015.0,2020.0,2024.0
+remote sensing,20,2014.25,2020.5,2023.0
+aerosol optical depth,25,2018.0,2021.0,2023.0
+air quality,27,2019.0,2022.0,2024.5
+random forest,15,2021.0,2022.0,2023.5
+mobile monitoring,8,2018.0,2022.5,2024.25
+machine learning,28,2021.0,2024.0,2025.0
+deep learning,7,2020.5,2024.0,2025.0

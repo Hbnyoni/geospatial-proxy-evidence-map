@@ -1,0 +1,9 @@
+code,label,rule
+R1,Not about air-pollution assessment or exposure,"Air pollution is not the topic (not in the title or author keywords, fewer than three mentions in the abstract), or particulates only in an aquatic or soil context"
+R2,Proxy in an unrelated sense,"Palaeo-environmental archive, or a computational surrogate/emulator with no geospatial data layer"
+R4,Non-geospatial proxy,"Biomonitor or biomarker as the proxy, with no geospatial data layer alongside"
+R5,Indoor or occupational only,"Indoor/occupational setting with no outdoor, ambient or geospatial component"
+R6,Process or inventory study,"Emission inventory, atmospheric chemistry, field campaign or model-process study with no exposure, proxy or mapping aim"
+R3,No geospatial proxy,No geospatial proxy family and no spatial component
+RH,Excluded on human review,Included by the rules but judged off-topic on the human title check
+INCLUDED,Retained,"Uses, compares, validates or reviews geospatial or environmental proxies to assess air pollution or exposure"

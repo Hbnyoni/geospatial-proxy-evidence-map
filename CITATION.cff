@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: If you use this deposit, please cite it and the article it supports.
+title: "Geospatial proxy indicators for air-pollution exposure assessment: screened corpus, coding, evidence map and analysis code"
+type: dataset
+license: CC-BY-4.0
+authors:
+  - family-names: "Nyoni"
+    given-names: "Handsome Bongani"
+    affiliation: "Midlands State University; University of Cape Town"
+    # orcid: https://orcid.org/0000-0000-0000-0000  # TODO add
+  - family-names: "Mphuthi"
+    given-names: "Siphiwe"
+    affiliation: "University of Cape Town"
+    # orcid: https://orcid.org/0000-0000-0000-0000  # TODO add
+  - family-names: "Makanga"
+    given-names: "Prestige Tatenda"
+    affiliation: "Midlands State University; Liverpool School of Tropical Medicine; CeSHHAR Zimbabwe"
+    # orcid: https://orcid.org/0000-0000-0000-0000  # TODO add
+keywords:
+  - air pollution
+  - exposure assessment
+  - geospatial proxy
+  - bibliometrics
+  - evidence map
+  - validation
+  - sub-Saharan Africa

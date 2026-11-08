@@ -1,0 +1,10 @@
+{
+ "matched": 2215,
+ "unmatched": 2,
+ "agreement": 0.759,
+ "kappa": 0.505,
+ "both_in": 595,
+ "both_out": 1086,
+ "v1_only": 439,
+ "v2_only": 95
+}

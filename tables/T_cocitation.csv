@@ -1,0 +1,81 @@
+key,label,cites,cluster,title,source
+brauer|2003|p228,Brauer (2003),270,1,Estimating long-term average particulate air pollution concentrations: application of traffic indicators and geographic information systems,Epidemiology
+hoek|2008|p7561,Hoek (2008),123,1,A review of land-use regression models to assess spatial variation of outdoor air pollution,Atmos Environ
+jerrett|2005|p185,Jerrett (2005a),119,1,A review and evaluation of intraurban air pollution exposure models,J. Expo. Anal. Environ. Epidemiol.
+briggs|1997|p699,Briggs (1997),107,1,Mapping urban air pollution using GIS: a regression-based approach,Int. J. Geogr. Inf. Sci.
+henderson|2007|p2422,Henderson (2007),98,1,Application of land use regression to estimate long-term concentrations of traffic-related nitrogen oxides and fine particulate matter,Environ Sci Technol
+briggs|2000|p151,Briggs (2000),85,1,A regression-based method for mapping traffic-related air pollution: application and testing in four contrasting urban environments,Sci Total Environ
+eeftens|2012|p11195,Eeftens (2012a),69,1,Development of land use regression models for PM2.5,PM2.5 absorbance
+beelen|2013|p10,Beelen (2013),60,1,Development of NO2 and NOx land use regression models for estimating air pollution exposure in 36 study areas in Europe–The ESCAPE project,Atmos. Environ.
+brunekreef|2002|p1233,Brunekreef (2002),56,1,Air pollution and health,Lancet
+gilbert|2005|p1059,Gilbert (2005),52,1,Assessing spatial variability of ambient nitrogen dioxide in Montréal,Canada
+jerrett|2007|p200,Jerrett (2007),48,1,Modeling the intraurban variability of ambient traffic pollution in Toronto,Canada
+ross|2007|p2255,Ross (2007),47,1,A land use regression for predicting fine particulate matter concentrations in the New York City region,Atmos Environ
+ross|2006|p106,Ross (2006),46,1,Nitrogen dioxide prediction in Southern California using land use regression modeling: Potential for environmental health analyses,J Exposure Sci Environ Epidemiology
+ryan|2007|p127,Ryan (2007a),44,1,A review of land-use regression models for characterizing intraurban air pollution exposure,Inhal Toxicol
+hochadel|2006|p542,Hochadel (2006),42,1,Predicting long-term average concentrations of traffic-related air pollutants using GIS-based information,Atmos Environ
+morgenstern|2007|p8,Morgenstern (2007),41,1,Respiratory health and individual estimated exposure to traffic-related air pollutants in a cohort of young children,Occup Environ Med
+wheeler|2008|p7,Wheeler (2008),41,1,Intra-urban variability of air pollution in Windsor,Ontario— Measurement and modeling for human exposure assessment
+kanaroglou|2005|p2399,Kanaroglou (2005),37,1,Establishing an air pollution monitoring network for intra-urban population exposure assessment: a location-allocation approach,Atmos Environ
+lebret|2000|p177,Lebret (2000),35,1,Atmos. Environ.,34
+ryan|2007|p278,Ryan (2007b),31,1,A comparison of proximity and land use regression traffic exposure models and wheezing in infants,Environ. Health Perspect.
+moore|2007|p246,Moore (2007),31,1,A land use regression model for predicting ambient fine particulate matter across Los Angeles,CA
+sahsuvaroglu|2006|p1059,Sahsuvaroglu (2006),31,1,A land use regression model for predicting ambient concentrations of nitrogen dioxide in Hamilton,Ontario
+breiman|2001|p5,Breiman (2001),29,1,Random forests,Mach. Learn
+beelen|2007|p1343,Beelen (2007),29,1,Estimated long-term outdoor air pollution concentrations in a cohort study,Atmos Environ
+brauer|2008|p680,Brauer (2008),29,1,A Cohort Study of Traffic-Related Air Pollution Impacts on Birth Outcomes,Environ. Health Perspect
+arain|2007|p3453,Arain (2007),29,1,The use of wind fields in a land use regression model to predict air pollution concentrations for health exposure studies,Atmos. Environ.
+eeftens|2011|p765,Eeftens (2011),28,1,Stability of measured and modelled spatial contrasts in NO(2)over time,Occup. Environ. Med.
+wang|2012|p4481,Wang (2012),28,1,Systematic evaluation of land use regression models for NO2,Environ. Sci. Technol.
+beelen|2009|p1852,Beelen (2009),27,1,Mapping of background air pollution at a fine spatial scale across the,Eur. Union. Sci. Total Environ.
+clougherty|2008|v7,Clougherty (2008),26,1,Land use regression modeling of intraurban residential variability in multiple traffic-related air pollutants,Environ Health
+carr|2002|p111,Carr (2002),25,1,Modeling annual benzene,toluene
+marshall|2008|p1359,Marshall (2008),23,1,Within-urban variability in ambient air pollution: Comparison of estimation methods,Atmos Environ.
+hoek|2011|p622,Hoek (2011),23,1,Land use regression model for ultrafine particles in Amsterdam,Environ. Sci. Technol.
+cyrys|2012|p374,Cyrys (2012),23,1,Variation of NO2 and NOx concentrations between and within 36 European study areas: results of the ESCAPE project,Atmos. Environ.
+wang|2013|p312,Wang (2013),22,1,Temporal stability of land use regression models for traffic-related air pollution,Atmos. Environ.
+briggs|2005|p1243,Briggs (2005),22,1,The role of GIS: coping with space (and time) in air pollution exposure assessment,J Toxicol Environ Health A
+johnson|2010|p3660,Johnson (2010),22,1,Evaluation of land-use regression models used to predict air quality concentrations in an urban area,Atmos Environ
+madsen|2007|p7500,Madsen (2007),22,1,Modeling the intra-urban variability of outdoor traffic pollution in Oslo,Norway-A GA2LEN project
+su|2008|p520,Su (2008),21,1,An innovative land use regression model incorporating meteorology for exposure analysis,Sci. Total Environ.
+basagana|2012|p634,Basagana (2012),21,1,Effect of the number of measurement sites on land use regression models in estimating local air pollution,Atmos. Environ.
+eeftens|2012|p303,Eeftens (2012b),21,1,Spatial variation of PM2.5,PM10
+vienneau|2010|p688,Vienneau (2010),20,1,Comparison of land-use regression models between Great Britain and The Netherlands,Atmos. Environ.
+hoek|2002|p1203,Hoek (2002a),69,2,Association between mortality and indicators of traffic-related air pollution in the Netherlands: a cohort study,The Lancet
+brauer|2002|p1092,Brauer (2002),41,2,Air pollution from traffic and the development of respiratory infections and asthmatic and allergic symptoms in children,Am. J. Resp. Crit. Care Med.
+hoek|2002|p4077,Hoek (2002b),39,2,Spatial variability of fine particle concentrations in three European areas,Atmos Environ
+brunekreef|1997|p298,Brunekreef (1997),39,2,Air pollution from truck traffic and lung function in children living near motorways,Epidemiology
+zhu|2002|p1032,Zhu (2002a),39,2,Concentration and size distribution of ultrafine particles near a major highway,Journal of the Air and Waste Management Association
+vanvliet|1997|p122,Van Vliet (1997),39,2,Motor vehicle exhaust and chronic respiratory symptoms in children living near freeways,Environ Res
+hoek|2001|p459,Hoek (2001),35,2,Estimation of long-term average exposure to outdoor air pollution for a cohort study on mortality,J Expo Anal Environ Epidemiol
+zhu|2002|p4323,Zhu (2002b),33,2,Study of ultrafine particles near a major highway with heavy-duty diesel traffic,Atmospheric Environment
+brauer|2007|p879,Brauer (2007),31,2,Air pollution and development of asthma,allergy and infections in a birth cohort
+gilbert|2003|p43,Gilbert (2003),30,2,Ambient nitrogen dioxide and distance from a major highway,Sci. Total Environ.
+gauderman|2005|p737,Gauderman (2005),30,2,Childhood asthma and exposure to traffic and nitrogen dioxide,Epidemiology
+gehring|2002|p690,Gehring (2002),28,2,Traffic-related air pollution and respiratory health during the first 2 yrs of life,Eur. Respir. J.
+bellander|2001|p633,Bellander (2001),27,2,Using geographic information systems to assess individual historical exposure to air pollution from traffic and house heating in Stockholm,Environ. Health Perspect.
+wjst|1993|p596,Wjst (1993),26,2,Road traffic and adverse effects on respiratory hearth in children,Br Med J
+janssen|2003|p1512,Janssen (2003),26,2,The relationship between air pollution from heavy traffic and allergic sensitization,bronchial hyperresponsiveness
+cyrys|2003|p134,Cyrys (2003),25,2,Comparison between different traffic-related particle indicators: elemental carbon EC.,PM 2.5 mass
+mcconnell|2006|p766,McConnell (2006),24,2,Traffic,susceptibility
+kunzli|2000|p795,Kunzli (2000),24,2,Public-health impact of outdoor and traffic-related air pollution: a european assessment,Lancet
+english|1999|p761,English (1999),24,2,Examining associations between childhood asthma and traffic flow using a geographic information system,Environ Health Persp
+roordaknape|1998|p1921,Roorda-Knape (1998),23,2,Air pollution from traffic in city districts near major motorways,Atmospheric Environment
+fischer|2000|p3713,Fischer (2000),22,2,Atmos. Environ.,34
+ciccone|1998|p771,Ciccone (1998),21,2,Road traffic and adverse respiratory effects in children. SIDRA collaborative group,Occup. Environ. Med.
+kramer|2000|p64,Kramer (2000),21,2,Traffic-related air pollution is associated with atopy in children living in urban areas,Epidemiology
+nyberg|2000|p487,Nyberg (2000),20,2,Urban air pollution and lung cancer in Stockholm,Epidemiol. Camb. Mass
+gauderman|2007|p571,Gauderman (2007),20,2,Effect of exposure to traffic on lung development from 10 to 18 years of age: a cohort study,Lancet
+venn|2001|p2177,Venn (2001),20,2,Living Near a Main Road and the Risk of Wheezing Illness in Children,Am. J. Respir. Crit. Care Med
+kim|2004|p520,Kim (2004),20,2,Traffic-related air pollution near busy roads: the East Bay Children's Respiratory Health Study,Am. J. Respir. Crit. Care Med.
+cyrys|2005|p987,Cyrys (2005),20,2,GIS-based estimation of exposure to particulate matter and NO2 in an urban area: Stochastic versus dispersion modeling,Environ Health Perspect
+nicolai|2003|p956,Nicolai (2003),19,2,Urban traffic and pollutant exposure related to respiratory outcomes and atopy in a large sample of children,European Respiratory Journal
+pope|2002|p1132,Pope (2002),64,3,Lung cancer,cardiopulmonary mortality
+dockery|1993|p1753,Dockery (1993),57,3,An association between air pollution and mortality in six U.S. cities,N. Engl. J. Med.
+jerrett|2005|p727,Jerrett (2005b),49,3,Spatial analysis of air pollution and mortality in Los Angeles,Epidemiology
+miller|2007|p447,Miller (2007),44,3,Long-term exposure to air pollution and incidence of cardiovascular events in women,N Engl J Med
+pope|2006|p709,Pope (2006),43,3,Health effects of fine particulate air pollution: Lines that connect,J Air Waste Manag Assoc
+brook|2010|p2331,Brook (2010),33,3,Particulate matter air pollution and cardiovascular disease: an update to the scientific statement from the american heart association,Circulation
+pope|1995|p669,Pope (1995),31,3,Particulate air pollution as a predictor of mortality in a prospective study of U.S. adults,Am. J. Respir. Crit. Care Med.
+pope|2004|p71,Pope (2004),23,3,Cardiovascular mortality and long-term exposure to particulate air pollution – epidemiological evidence of general pathophysiological pathways of disease,Circulation
+kunzli|2005|p201,Kunzli (2005),19,3,Ambient air pollution and atherosclerosis in Los Angeles,Environ Health Perspect

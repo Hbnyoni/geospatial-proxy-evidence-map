@@ -1,0 +1,5 @@
+stage,set,n,excluded_doctype,kept,excluded_types
+identified,Scopus primary,729,0,729,{}
+identified,WoS primary,645,0,645,{}
+identified,Scopus sensitivity,1483,142,1341,"{""Book chapter"": 50, ""Conference paper"": 49, ""Book"": 28, ""Note"": 6, ""Data paper"": 5, ""Letter"": 2, ""Editorial"": 1, ""Short survey"": 1}"
+identified,WoS sensitivity,211,0,211,{}

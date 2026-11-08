@@ -1,0 +1,21 @@
+first_author,year,title,source,tc,tc_per_year,families,doi
+Raaschou-Nielsen O.,2013,Air pollution and lung cancer incidence in 17 European cohorts: Prospective analyses from the European Study of Cohorts for Air Pollution Effects (ESCAPE),The Lancet Oncology,1436,110.5,landuse; road,10.1016/s1470-2045(13)70279-1
+Hoek G.,2008,A review of land-use regression models to assess spatial variation of outdoor air pollution,Atmospheric Environment,1225,68.1,hybrid; landuse; meteorology; population; road; topography,10.1016/j.atmosenv.2008.05.057
+Eeftens M.,2012,"Development of land use regression models for PM2.5, PM 2.5 absorbance, PM10 and PMcoarse in 20 European study areas; Results of the ESCAPE project",Environmental Science and Technology,1117,79.8,landuse; road,10.1021/es301948k
+Jerrett M.,2005,A review and evaluation of intraurban air pollution exposure models,Journal of Exposure Analysis and Environmental Epidemiology,952,45.3,hybrid; landuse; satellite,10.1038/sj.jea.7500388
+Beelen R.,2013,Development of NO2 and NOx land use regression models for estimating air pollution exposure in 36 study areas in Europe - The ESCAPE project,Atmospheric Environment,883,67.9,landuse; population; road,10.1016/j.atmosenv.2013.02.037
+Jerrett M.,2005,Spatial analysis of air pollution and mortality in Los Angeles,Epidemiology,824,39.2,road,10.1097/01.ede.0000181630.15826.7d
+Cressie N.,2008,Fixed rank kriging for very large spatial data sets,Journal of the Royal Statistical Society. Series B: Statistical Methodology,784,43.6,satellite; unspecified,10.1111/j.1467-9868.2007.00633.x
+Lu Z.,2011,"Sulfur dioxide and primary carbonaceous aerosol emissions in China and India, 1996-2010",Atmospheric Chemistry and Physics,707,47.1,fire; industrial; satellite,10.5194/acp-11-9839-2011
+Gauderman W.J.,2007,Effect of exposure to traffic on lung development from 10 to 18 years of age: a cohort study,Lancet,660,34.7,road,10.1016/s0140-6736(07)60037-3
+Gupta P.,2006,Satellite remote sensing of particulate matter and air quality assessment over global cities,Atmospheric Environment,586,29.3,landuse; meteorology; satellite,10.1016/j.atmosenv.2006.03.016
+Crippa M.,2018,Gridded emissions of air pollutants for the period 1970-2012 within EDGAR v4.3.2,Earth System Science Data,578,72.2,fire; industrial; landuse; satellite,10.5194/essd-10-1987-2018
+Han X.,2006,A review of traffic-related air pollution exposure assessment studies in the developing world,Environment International,541,27.0,road,10.1016/j.envint.2005.05.020
+Brauer M.,2008,A cohort study of traffic-related air pollution impacts on birth outcomes,Environmental Health Perspectives,528,29.3,landuse; meteorology; road,10.1289/ehp.10952
+Clark N.A.,2010,Effect of early life exposure to air pollution on development of childhood asthma,Environmental Health Perspectives,507,31.7,industrial; landuse; road,10.1289/ehp.0900916
+"Lu, Z. and Streets, D. G. and Zhang, Q. and Wang, S. and Carmichael, G. R. and Cheng, Y. F. and Wei, C. and Chin, M. and Diehl, T. and Tan, Q.",2010,Sulfur dioxide emissions in China and sulfur trends in East Asia since 2000,Atmospheric Chemistry And Physics,501,31.3,industrial; meteorology; satellite,10.5194/acp-10-6311-2010
+"Wilson, WE and Suh, HH",1997,Fine particles and coarse particles: Concentration relationships relevant to epidemiologic studies,Journal Of The Air \& Waste Management Association,494,17.0,landuse,10.1080/10473289.1997.10464074
+Morgenstern V.,2008,"Atopic diseases, allergic sensitization, and exposure to traffic-related air pollution in children",American Journal of Respiratory and Critical Care Medicine,491,27.3,road,10.1164/rccm.200701-036oc
+Brauer M.,2007,"Air pollution and development of asthma, allergy and infections in a birth cohort",European Respiratory Journal,481,25.3,landuse; road,10.1183/09031936.00083406
+Cesaroni G.,2013,Long-term exposure to urban air pollution and mortality in a cohort of more than a million adults in Rome,Environmental Health Perspectives,474,36.5,hybrid; landuse; population; road,10.1289/ehp.1205862
+Henderson S.B.,2007,Application of land use regression to estimate long-term concentrations of traffic-related nitrogen oxides and fine particulate matter,Environmental Science and Technology,462,24.3,landuse; road,10.1021/es0606780

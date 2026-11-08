@@ -1,0 +1,874 @@
+{
+ "flow": {
+  "scopus_primary": 729,
+  "wos_primary": 645,
+  "scopus_sens": 1483,
+  "wos_sens": 211,
+  "primary_identified": 1374,
+  "primary_doctype_excluded": 0,
+  "primary_after_doctype": 1374,
+  "primary_dup_doi": 468,
+  "primary_dup_title": 13,
+  "primary_dup_fuzzy": 1,
+  "primary_unique": 892,
+  "primary_both_db": 480,
+  "primary_scopus_only": 247,
+  "primary_wos_only": 165,
+  "sens_identified": 1694,
+  "sens_doctype_excluded": 142,
+  "sens_after_doctype": 1552,
+  "sens_dup_within": 4,
+  "sens_unique_within": 1548,
+  "sens_overlap_primary": 223,
+  "sens_unique": 1325,
+  "near_pairs_for_review": 2,
+  "screen_primary_INCLUDED": 263,
+  "screen_primary_R1": 286,
+  "screen_primary_R2": 23,
+  "screen_primary_R3": 153,
+  "screen_primary_R4": 19,
+  "screen_primary_R5": 67,
+  "screen_primary_R6": 81,
+  "screen_sensitivity_INCLUDED": 429,
+  "screen_sensitivity_R1": 780,
+  "screen_sensitivity_R2": 0,
+  "screen_sensitivity_R3": 87,
+  "screen_sensitivity_R4": 16,
+  "screen_sensitivity_R5": 9,
+  "screen_sensitivity_R6": 4,
+  "included_primary": 263,
+  "included_sens": 429,
+  "sens_yield": 0.324,
+  "included_total": 692,
+  "validation_subcorpus": 263,
+  "screened_total": 2217
+ },
+ "agreement_v1": {
+  "matched": 2215,
+  "unmatched": 2,
+  "agreement": 0.759,
+  "kappa": 0.505,
+  "both_in": 595,
+  "both_out": 1086,
+  "v1_only": 439,
+  "v2_only": 95
+ },
+ "audit": {
+  "n": 120,
+  "tp": 42,
+  "fp": 14,
+  "fn": 6,
+  "tn": 58,
+  "precision": 0.75,
+  "precision_ci": [
+   0.623,
+   0.845
+  ],
+  "npv": 0.906,
+  "npv_ci": [
+   0.81,
+   0.956
+  ],
+  "est_recall": 0.784,
+  "human_verdicts": 0,
+  "note": "Blinded audit of 120 records drawn after rule tuning on 200 others; human verdicts replace the AI-drafted ones where given."
+ },
+ "production": {
+  "segments": {
+   "2000_2009": {
+    "rate": 0.3116,
+    "p": 0.0001,
+    "mean": 15.0
+   },
+   "2010_2025": {
+    "rate": 0.0085,
+    "p": 0.2986,
+    "mean": 32.0
+   }
+  },
+  "first_year": 1988,
+  "last_year": 2026,
+  "n": 692,
+  "cagr_2000_2025": 0.0796,
+  "doubling_years": 9.1,
+  "share_since_2015": 0.536,
+  "share_since_2020": 0.315,
+  "peak_year": 2019,
+  "peak_n": 41,
+  "n_2026_partial": 18,
+  "articles": 657,
+  "reviews": 35,
+  "both_db": 191,
+  "scopus_only": 470,
+  "wos_only": 31
+ },
+ "citations": {
+  "total": 49966,
+  "mean": 72.2,
+  "median": 30.0,
+  "mean_per_year": 6.04,
+  "uncited": 39,
+  "h_index": 109
+ },
+ "sources": {
+  "n_sources": 211,
+  "core_sources": 5,
+  "core_share": 0.329,
+  "zone_counts": {
+   "1": 5,
+   "2": 29,
+   "3": 177
+  },
+  "top": [
+   [
+    "Atmospheric Environment",
+    80
+   ],
+   [
+    "Science of the Total Environment",
+    50
+   ],
+   [
+    "Environmental Health Perspectives",
+    40
+   ],
+   [
+    "Environmental Science and Technology",
+    30
+   ],
+   [
+    "Environmental Research",
+    28
+   ],
+   [
+    "Atmospheric Chemistry and Physics",
+    20
+   ],
+   [
+    "Environmental Health: a Global Access Science Source",
+    19
+   ],
+   [
+    "Journal of the Air and Waste Management Association",
+    17
+   ],
+   [
+    "Journal of Exposure Science and Environmental Epidemiology",
+    16
+   ],
+   [
+    "International Journal of Environmental Research and Public Health",
+    14
+   ]
+  ]
+ },
+ "authors": {
+  "n_authors": 2924,
+  "single_paper_share": 0.759,
+  "lotka_exponent": 2.24,
+  "lotka_r2": 0.94,
+  "authors_per_doc": 7.09,
+  "single_authored": 38,
+  "top": [
+   [
+    "Brunekreef B",
+    47
+   ],
+   [
+    "Hoek G",
+    38
+   ],
+   [
+    "Brauer M",
+    31
+   ],
+   [
+    "Beelen R",
+    27
+   ],
+   [
+    "Heinrich J",
+    23
+   ],
+   [
+    "De Hoogh K",
+    22
+   ],
+   [
+    "Gehring U",
+    20
+   ],
+   [
+    "Jerrett M",
+    19
+   ],
+   [
+    "Cyrys J",
+    18
+   ],
+   [
+    "Larson T",
+    17
+   ]
+  ]
+ },
+ "countries": {
+  "n_countries": 72,
+  "mcp_share": 0.357,
+  "top_corr": [
+   [
+    "United States",
+    223
+   ],
+   [
+    "China",
+    98
+   ],
+   [
+    "Canada",
+    66
+   ],
+   [
+    "Germany",
+    30
+   ],
+   [
+    "Netherlands",
+    28
+   ],
+   [
+    "Italy",
+    26
+   ],
+   [
+    "United Kingdom",
+    21
+   ],
+   [
+    "Iran",
+    18
+   ],
+   [
+    "Taiwan",
+    17
+   ],
+   [
+    "France",
+    15
+   ]
+  ],
+  "africa_author_papers": 11,
+  "africa_lead_papers": 6,
+  "author_region_share": {
+   "NAM": 0.418,
+   "ECA": 0.283,
+   "EAP": 0.228,
+   "MENA": 0.032,
+   "SAS": 0.017,
+   "LAC": 0.013,
+   "SSA": 0.009
+  },
+  "aff_resolved": 1.0
+ },
+ "institutions": {
+  "top": [
+   [
+    "Utrecht University",
+    58
+   ],
+   [
+    "University of Washington",
+    42
+   ],
+   [
+    "University of British Columbia",
+    39
+   ],
+   [
+    "University Medical Center Utrecht",
+    37
+   ],
+   [
+    "University of California",
+    26
+   ],
+   [
+    "University of Basel",
+    26
+   ],
+   [
+    "Harvard School of Public Health",
+    24
+   ],
+   [
+    "Swiss Tropical and Public Health Institute",
+    20
+   ],
+   [
+    "Institute of Environmental Medicine",
+    20
+   ],
+   [
+    "University of Southern California",
+    19
+   ]
+  ]
+ },
+ "keywords": {
+  "coverage": 0.756,
+  "n_unique": 1319,
+  "top": [
+   [
+    "air pollution",
+    249
+   ],
+   [
+    "land use regression",
+    98
+   ],
+   [
+    "exposure assessment",
+    78
+   ],
+   [
+    "PM2.5",
+    66
+   ],
+   [
+    "GIS",
+    65
+   ],
+   [
+    "traffic",
+    65
+   ],
+   [
+    "NO2",
+    62
+   ],
+   [
+    "particulate matter",
+    57
+   ],
+   [
+    "epidemiology",
+    34
+   ],
+   [
+    "machine learning",
+    28
+   ],
+   [
+    "air quality",
+    27
+   ],
+   [
+    "aerosol optical depth",
+    25
+   ],
+   [
+    "asthma",
+    25
+   ],
+   [
+    "black carbon",
+    23
+   ],
+   [
+    "remote sensing",
+    20
+   ],
+   [
+    "traffic-related air pollution",
+    18
+   ],
+   [
+    "spatiotemporal modelling",
+    18
+   ],
+   [
+    "dispersion model",
+    17
+   ],
+   [
+    "children",
+    16
+   ],
+   [
+    "NOx",
+    15
+   ]
+  ]
+ },
+ "kw_network": {
+  "nodes": 49,
+  "edges": 347,
+  "min_occ": 5,
+  "resolution": 1.0,
+  "clusters": [
+   [
+    "land use regression",
+    "exposure assessment",
+    "PM2.5",
+    "GIS",
+    "NO2",
+    "traffic-related air pollution",
+    "dispersion model",
+    "NOx"
+   ],
+   [
+    "traffic",
+    "particulate matter",
+    "epidemiology",
+    "asthma",
+    "children",
+    "pregnancy",
+    "long-term exposure",
+    "vehicle emissions"
+   ],
+   [
+    "machine learning",
+    "air quality",
+    "black carbon",
+    "ultrafine particles",
+    "random forest",
+    "spatial variability",
+    "PM10",
+    "ozone"
+   ],
+   [
+    "aerosol optical depth",
+    "remote sensing",
+    "spatiotemporal modelling",
+    "geostatistics",
+    "health effects",
+    "India",
+    "wildfire",
+    "COVID-19"
+   ]
+  ]
+ },
+ "references": {
+  "docs_with_refs": 678,
+  "unique_refs": 18184,
+  "total_cites": 28573
+ },
+ "cocitation": {
+  "nodes": 80,
+  "edges": 2638,
+  "resolution": 1.0,
+  "clusters": [
+   [
+    "Brauer (2003)",
+    "Hoek (2008)",
+    "Jerrett (2005a)",
+    "Briggs (1997)",
+    "Henderson (2007)",
+    "Briggs (2000)"
+   ],
+   [
+    "Hoek (2002a)",
+    "Brauer (2002)",
+    "Zhu (2002a)",
+    "Van Vliet (1997)",
+    "Brunekreef (1997)",
+    "Hoek (2002b)"
+   ],
+   [
+    "Pope (2002)",
+    "Dockery (1993)",
+    "Jerrett (2005b)",
+    "Miller (2007)",
+    "Pope (2006)",
+    "Brook (2010)"
+   ]
+  ]
+ },
+ "families": {
+  "counts": {
+   "Land use and built environment": 381,
+   "Road and traffic": 360,
+   "Meteorology": 190,
+   "Population and settlement": 141,
+   "Satellite atmospheric": 133,
+   "Topography": 112,
+   "Hybrid and composite": 104,
+   "Industrial and point sources": 94,
+   "Vegetation and land surface": 50,
+   "Fire and smoke": 36
+  },
+  "shares": {
+   "Land use and built environment": 0.551,
+   "Road and traffic": 0.52,
+   "Meteorology": 0.275,
+   "Population and settlement": 0.204,
+   "Satellite atmospheric": 0.192,
+   "Topography": 0.162,
+   "Hybrid and composite": 0.15,
+   "Industrial and point sources": 0.136,
+   "Vegetation and land surface": 0.072,
+   "Fire and smoke": 0.052
+  },
+  "multi_family_share": 0.717,
+  "median_families": 2.0,
+  "generic_only": 25
+ },
+ "pollutants": {
+  "counts": {
+   "NO2/NOx": 302,
+   "PM2.5": 266,
+   "PM (unspecified)": 128,
+   "BC/EC": 126,
+   "PM10": 120,
+   "O3": 96,
+   "SO2": 64,
+   "VOC/PAH": 64,
+   "CO": 55,
+   "UFP": 44,
+   "Dust/metals": 41
+  },
+  "none": 73,
+  "multi": 354
+ },
+ "methods": {
+  "counts": {
+   "Statistical regression (GAM, mixed)": 286,
+   "Land-use regression": 233,
+   "Proximity and buffer metrics": 123,
+   "Machine learning": 93,
+   "Personal or mobile monitoring": 89,
+   "Geostatistics and interpolation": 81,
+   "Dispersion modelling": 62,
+   "Satellite-to-surface estimation": 39,
+   "Chemical-transport modelling": 28,
+   "Spatial regression and GWR": 19
+  }
+ },
+ "validation": {
+  "n": 263,
+  "share": 0.38,
+  "types": {
+   "Temporal hold-out": 5,
+   "Comparison with measurements": 20,
+   "Spatial or blocked CV": 7,
+   "Random or k-fold CV": 78,
+   "Independent or external validation": 22
+  },
+  "spatial_or_external": 27,
+  "spatial_cv": 7,
+  "external": 22,
+  "ssa": 5,
+  "personal": 27
+ },
+ "static_dynamic": {
+  "static_only": 374,
+  "dynamic_only": 66,
+  "both": 219,
+  "neither": 33
+ },
+ "personal": {
+  "n": 96,
+  "share": 0.139,
+  "ssa": 1
+ },
+ "reviews": 41,
+ "vocabulary": {
+  "sens_using_proxy_word": 14,
+  "sens_n": 429,
+  "primary_using_predictor_word": 0.118
+ },
+ "geography": {
+  "region_counts": {
+   "North America": 182,
+   "Europe & Central Asia": 139,
+   "East Asia & Pacific": 121,
+   "Not stated": 113,
+   "Multi-region": 59,
+   "Global or multi-country": 27,
+   "Middle East & North Africa": 18,
+   "South Asia": 15,
+   "Latin America & Caribbean": 11,
+   "Sub-Saharan Africa": 7
+  },
+  "located": 579,
+  "not_stated": 113,
+  "ssa_n": 12,
+  "ssa_share_all": 0.0173,
+  "ssa_share_located": 0.0207,
+  "africa_n": 12,
+  "n_countries": 66,
+  "ssa_countries": [
+   "Cameroon",
+   "Ethiopia",
+   "Ghana",
+   "Kenya",
+   "Nigeria",
+   "South Africa",
+   "Tanzania",
+   "Uganda",
+   "Zimbabwe"
+  ],
+  "top_study": [
+   [
+    "United States",
+    166
+   ],
+   [
+    "China",
+    99
+   ],
+   [
+    "Canada",
+    56
+   ],
+   [
+    "United Kingdom",
+    38
+   ],
+   [
+    "Germany",
+    35
+   ],
+   [
+    "Switzerland",
+    32
+   ],
+   [
+    "Italy",
+    24
+   ],
+   [
+    "India",
+    22
+   ],
+   [
+    "Netherlands",
+    21
+   ],
+   [
+    "Iran",
+    20
+   ],
+   [
+    "Taiwan",
+    14
+   ],
+   [
+    "Spain",
+    13
+   ]
+  ],
+  "high_income_share_located": 0.681,
+  "lmic_any": 35,
+  "ssa_studies_with_ssa_author": 10
+ },
+ "ranking": {
+  "n_proxies": 37,
+  "top10": [
+   [
+    "Land use or land cover class",
+    "Land use and built environment",
+    219,
+    139,
+    0.993
+   ],
+   [
+    "Land-use regression predictors",
+    "Land use and built environment",
+    233,
+    131,
+    0.98
+   ],
+   [
+    "Built-up or impervious surface",
+    "Land use and built environment",
+    172,
+    79,
+    0.942
+   ],
+   [
+    "Traffic (unspecified)",
+    "Road and traffic",
+    135,
+    52,
+    0.889
+   ],
+   [
+    "Elevation and terrain",
+    "Topography",
+    111,
+    52,
+    0.858
+   ],
+   [
+    "Distance or proximity to roads",
+    "Road and traffic",
+    158,
+    51,
+    0.8
+   ],
+   [
+    "Traffic volume or intensity",
+    "Road and traffic",
+    107,
+    50,
+    0.798
+   ],
+   [
+    "Reanalysis or NWP fields",
+    "Meteorology",
+    77,
+    37,
+    0.797
+   ],
+   [
+    "Population density",
+    "Population and settlement",
+    88,
+    47,
+    0.794
+   ],
+   [
+    "Chemical-transport or dispersion model output",
+    "Hybrid and composite",
+    91,
+    37,
+    0.78
+   ]
+  ],
+  "rho_prominence_validation": 0.932
+ },
+ "bursts": {
+  "n": 25,
+  "s": 2.0,
+  "gamma": 0.5,
+  "min_occ": 5,
+  "min_years": 2,
+  "top": [
+   [
+    "GIS",
+    12.7,
+    2001,
+    2009
+   ],
+   [
+    "machine learning",
+    9.58,
+    2021,
+    2025
+   ],
+   [
+    "traffic",
+    8.41,
+    2003,
+    2010
+   ],
+   [
+    "air quality",
+    6.19,
+    2022,
+    2025
+   ],
+   [
+    "exposure assessment",
+    5.59,
+    2005,
+    2007
+   ],
+   [
+    "aerosol optical depth",
+    4.93,
+    2021,
+    2025
+   ],
+   [
+    "random forest",
+    4.37,
+    2020,
+    2024
+   ],
+   [
+    "particulate matter",
+    4.34,
+    2007,
+    2008
+   ],
+   [
+    "epidemiology",
+    4.02,
+    1995,
+    2006
+   ],
+   [
+    "NOx",
+    3.04,
+    2012,
+    2018
+   ]
+  ]
+ },
+ "collaboration": {
+  "n_links": 358,
+  "n_links_w2": 184,
+  "ssa_links": 39,
+  "ssa_partners": [
+   "Bangladesh",
+   "Canada",
+   "Chile",
+   "China",
+   "Colombia",
+   "Germany",
+   "India",
+   "Indonesia",
+   "Netherlands",
+   "Pakistan",
+   "Serbia",
+   "Sweden",
+   "Switzerland",
+   "United Kingdom",
+   "United States"
+  ],
+  "top": [
+   [
+    "United States",
+    "Canada",
+    39
+   ],
+   [
+    "United States",
+    "China",
+    29
+   ],
+   [
+    "Germany",
+    "Netherlands",
+    25
+   ],
+   [
+    "Netherlands",
+    "United Kingdom",
+    21
+   ],
+   [
+    "Netherlands",
+    "Sweden",
+    19
+   ],
+   [
+    "Germany",
+    "Sweden",
+    19
+   ],
+   [
+    "Italy",
+    "United Kingdom",
+    16
+   ],
+   [
+    "Germany",
+    "United Kingdom",
+    16
+   ]
+  ]
+ }
+}

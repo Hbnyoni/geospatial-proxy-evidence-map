@@ -1,0 +1,20 @@
+{
+ "n": 120,
+ "tp": 42,
+ "fp": 14,
+ "fn": 6,
+ "tn": 58,
+ "precision": 0.75,
+ "precision_ci": [
+  0.623,
+  0.845
+ ],
+ "npv": 0.906,
+ "npv_ci": [
+  0.81,
+  0.956
+ ],
+ "est_recall": 0.784,
+ "human_verdicts": 0,
+ "note": "Blinded audit of 120 records drawn after rule tuning on 200 others; human verdicts replace the AI-drafted ones where given."
+}

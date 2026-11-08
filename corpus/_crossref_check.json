@@ -1,0 +1,318 @@
+{
+ "aria2017": [
+  "OK",
+  "10.1016/j.joi.2017.08.007",
+  "Aria",
+  2017,
+  "Journal of Informetrics",
+  "11",
+  "4",
+  "959-975",
+  "bibliometrix : An R-tool for comprehensive science mapping analysis"
+ ],
+ "vaneck2010": [
+  "OK",
+  "10.1007/s11192-009-0146-3",
+  "van Eck",
+  2010,
+  "Scientometrics",
+  "84",
+  "2",
+  "523-538",
+  "Software survey: VOSviewer, a computer program for bibliometric mappin"
+ ],
+ "page2021": [
+  "OK",
+  "10.1136/bmj.n71",
+  "Page",
+  2021,
+  "BMJ",
+  null,
+  null,
+  "n71",
+  "The PRISMA 2020 statement: an updated guideline for reporting systemat"
+ ],
+ "hoek2008": [
+  "OK",
+  "10.1016/j.atmosenv.2008.05.057",
+  "Hoek",
+  2008,
+  "Atmospheric Environment",
+  "42",
+  "33",
+  "7561-7578",
+  "A review of land-use regression models to assess spatial variation of "
+ ],
+ "jerrett2005": [
+  "OK",
+  "10.1038/sj.jea.7500388",
+  "Jerrett",
+  2005,
+  "Journal of Exposure Science &amp; Enviro",
+  "15",
+  "2",
+  "185-204",
+  "A review and evaluation of intraurban air pollution exposure models"
+ ],
+ "briggs1997": [
+  "OK",
+  "10.1080/136588197242158",
+  "BRIGGS",
+  1997,
+  "International Journal of Geographical In",
+  "11",
+  "7",
+  "699-718",
+  "Mapping urban air pollution using GIS: a regression-based approach"
+ ],
+ "brauer2003": [
+  "OK",
+  "10.1097/01.EDE.0000041910.49046.9B",
+  "Brauer",
+  2003,
+  "Epidemiology",
+  "14",
+  "2",
+  "228-239",
+  "Estimating Long-Term Average Particulate Air Pollution Concentrations:"
+ ],
+ "eeftens2012": [
+  "OK",
+  "10.1021/es301948k",
+  "Eeftens",
+  2012,
+  "Environmental Science &amp; Technology",
+  "46",
+  "20",
+  "11195-11205",
+  "Development of Land Use Regression Models for PM\n                    <"
+ ],
+ "beelen2013": [
+  "OK",
+  "10.1016/j.atmosenv.2013.02.037",
+  "Beelen",
+  2013,
+  "Atmospheric Environment",
+  "72",
+  null,
+  "10-23",
+  "Development of NO2 and NOx land use regression models for estimating a"
+ ],
+ "dockery1993": [
+  "OK",
+  "10.1056/NEJM199312093292401",
+  "Dockery",
+  1993,
+  "New England Journal of Medicine",
+  "329",
+  "24",
+  "1753-1759",
+  "An Association between Air Pollution and Mortality in Six U.S. Cities"
+ ],
+ "pope2002": [
+  "OK",
+  "10.1001/jama.287.9.1132",
+  "Pope III",
+  2002,
+  "JAMA",
+  "287",
+  "9",
+  "1132",
+  "Lung Cancer, Cardiopulmonary Mortality, and Long-term Exposure to Fine"
+ ],
+ "callon1991": [
+  "OK",
+  "10.1007/BF02019280",
+  "Callon",
+  1991,
+  "Scientometrics",
+  "22",
+  "1",
+  "155-205",
+  "Co-word analysis as a tool for describing the network of interactions "
+ ],
+ "small1973": [
+  "OK",
+  "10.1002/asi.4630240406",
+  "Small",
+  1973,
+  "Journal of the American Society for Info",
+  "24",
+  "4",
+  "265-269",
+  "Co\u2010citation in the scientific literature: A new measure of the relatio"
+ ],
+ "blondel2008": [
+  "OK",
+  "10.1088/1742-5468/2008/10/P10008",
+  "Blondel",
+  2008,
+  "Journal of Statistical Mechanics: Theory",
+  "2008",
+  "10",
+  "P10008",
+  "Fast unfolding of communities in large networks"
+ ],
+ "bradford1934": [
+  "NO DOI",
+  "Bradford, S. C. (1934). Sources of information on specific subjects. *Engineerin"
+ ],
+ "lotka1926": [
+  "NO DOI",
+  "Lotka, A. J. (1926). The frequency distribution of scientific productivity. *Jou"
+ ],
+ "vandonkelaar2010": [
+  "OK",
+  "10.1289/ehp.0901623",
+  "van Donkelaar",
+  2010,
+  "Environmental Health Perspectives",
+  "118",
+  "6",
+  "847-855",
+  "Global Estimates of Ambient Fine Particulate Matter Concentrations fro"
+ ],
+ "roberts2017": [
+  "OK",
+  "10.1111/ecog.02881",
+  "Roberts",
+  2017,
+  "Ecography",
+  "40",
+  "8",
+  "913-929",
+  "Cross\u2010validation strategies for data with temporal, spatial, hierarchi"
+ ],
+ "ploton2020": [
+  "OK",
+  "10.1038/s41467-020-18321-y",
+  "Ploton",
+  2020,
+  "Nature Communications",
+  "11",
+  "1",
+  null,
+  "Spatial validation reveals poor predictive performance of large-scale "
+ ],
+ "meyer2021": [
+  "OK",
+  "10.1111/2041-210X.13650",
+  "Meyer",
+  2021,
+  "Methods in Ecology and Evolution",
+  "12",
+  "9",
+  "1620-1633",
+  "Predicting into unknown space? Estimating the area of applicability of"
+ ],
+ "amegah2017": [
+  "OK",
+  "10.1016/j.envpol.2016.09.042",
+  "Amegah",
+  2017,
+  "Environmental Pollution",
+  "220",
+  null,
+  "738-743",
+  "Urban air pollution in Sub-Saharan Africa: Time for action"
+ ],
+ "katoto2019": [
+  "OK",
+  "10.1016/j.envres.2019.03.029",
+  "Katoto",
+  2019,
+  "Environmental Research",
+  "173",
+  null,
+  "174-188",
+  "Ambient air pollution and health in Sub-Saharan Africa: Current eviden"
+ ],
+ "martin2019": [
+  "OK",
+  "10.1016/j.aeaoa.2019.100040",
+  "Martin",
+  2019,
+  "Atmospheric Environment: X",
+  "3",
+  null,
+  "100040",
+  "No one knows which city has the highest concentration of fine particul"
+ ],
+ "steinle2013": [
+  "OK",
+  "10.1016/j.scitotenv.2012.10.098",
+  "Steinle",
+  2013,
+  "Science of The Total Environment",
+  "443",
+  null,
+  "184-193",
+  "Quantifying human exposure to air pollution\u2014Moving from static monitor"
+ ],
+ "kwan2012": [
+  "OK",
+  "10.1080/00045608.2012.687349",
+  "Kwan",
+  2012,
+  "Annals of the Association of American Ge",
+  "102",
+  "5",
+  "958-968",
+  "The Uncertain Geographic Context Problem"
+ ],
+ "hoek2017": [
+  "OK",
+  "10.1007/s40572-017-0169-5",
+  "Hoek",
+  2017,
+  "Current Environmental Health Reports",
+  "4",
+  "4",
+  "450-462",
+  "Methods for Assessing Long-Term Exposures to Outdoor Air Pollutants"
+ ],
+ "nyoni2026": [
+  "OK",
+  "10.1007/s11869-026-02060-y",
+  "Nyoni",
+  2026,
+  "Air Quality, Atmosphere &amp; Health",
+  "19",
+  "8",
+  null,
+  "Performance of road-traffic-based exposure proxies against personal PM"
+ ],
+ "ryan2007": [
+  "OK",
+  "10.1080/08958370701495998",
+  "Ryan",
+  2007,
+  "Inhalation Toxicology",
+  "19",
+  "sup1",
+  "127-133",
+  "A Review of Land-use Regression Models for Characterizing Intraurban A"
+ ],
+ "breiman2001": [
+  "OK",
+  "10.1023/A:1010933404324",
+  "Breiman",
+  2001,
+  "Machine Learning",
+  "45",
+  "1",
+  "5-32",
+  "Random Forests"
+ ],
+ "brunekreef2002": [
+  "OK",
+  "10.1016/S0140-6736(02)11274-8",
+  "Brunekreef",
+  2002,
+  "The Lancet",
+  "360",
+  "9341",
+  "1233-1242",
+  "Air pollution and health"
+ ]
+}

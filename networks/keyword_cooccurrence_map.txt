@@ -1,0 +1,50 @@
+id	label	cluster	weight<Occurrences>
+1	land use regression	1	98
+2	exposure assessment	1	78
+3	PM2.5	1	66
+4	GIS	1	65
+5	traffic	2	65
+6	NO2	1	62
+7	particulate matter	2	57
+8	epidemiology	2	34
+9	machine learning	3	28
+10	air quality	3	27
+11	aerosol optical depth	4	25
+12	asthma	2	25
+13	black carbon	3	23
+14	remote sensing	4	20
+15	traffic-related air pollution	1	18
+16	spatiotemporal modelling	4	18
+17	dispersion model	1	17
+18	children	2	16
+19	NOx	1	15
+20	spatial variability	3	15
+21	ultrafine particles	3	15
+22	random forest	3	15
+23	mortality	1	13
+24	geostatistics	4	12
+25	ozone	3	11
+26	PM10	3	11
+27	health effects	4	11
+28	personal exposure	1	10
+29	pregnancy	2	10
+30	long-term exposure	2	9
+31	mobile monitoring	3	8
+32	vehicle emissions	2	8
+33	deep learning	3	7
+34	environmental exposure	2	7
+35	VOCs	3	7
+36	allergy	2	6
+37	spatial analysis	3	6
+38	aerosol	3	5
+39	population exposure	1	5
+40	COVID-19	4	5
+41	lung function	2	5
+42	wildfire	4	5
+43	urban air pollution	3	5
+44	India	4	5
+45	cohort study	1	5
+46	carbon monoxide	2	5
+47	elemental carbon	1	5
+48	traffic emissions	3	5
+49	birth cohort	2	5

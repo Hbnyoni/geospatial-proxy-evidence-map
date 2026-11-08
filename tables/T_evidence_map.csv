@@ -1,0 +1,38 @@
+rank_published,proxy,family,records,centrality,validated,validation_rate,val_lo,val_hi,val_ci_width,spatial_or_external,strong_rate,strong_lo,strong_hi,personal,ssa,is_aggregate,dynamic_family,dynamic_proxy,prom_freq_pct,prom_cent_pct,prominence,validation_score_counts,priority_published,quadrant,top8_stability
+1,Land use or land cover class,Land use and built environment,219,0.4794,139,0.635,0.569,0.696,0.127,17,0.078,0.049,0.121,21,4,False,False,False,0.973,1.0,0.986,1.0,0.993,Established,1.0
+2,Land-use regression predictors,Land use and built environment,233,0.4711,131,0.562,0.498,0.624,0.126,16,0.069,0.043,0.109,29,3,True,False,False,1.0,0.973,0.986,0.973,0.98,Aggregate (not mapped),
+3,Built-up or impervious surface,Land use and built environment,172,0.3338,79,0.459,0.387,0.534,0.147,8,0.047,0.024,0.089,18,4,False,False,False,0.946,0.946,0.946,0.939,0.942,Prominent but weakly validated,1.0
+4,Traffic (unspecified),Road and traffic,135,0.2332,52,0.385,0.307,0.469,0.162,6,0.044,0.021,0.094,25,0,True,False,False,0.892,0.892,0.892,0.885,0.889,Aggregate (not mapped),
+5,Elevation and terrain,Topography,111,0.2126,52,0.468,0.378,0.561,0.183,5,0.045,0.019,0.101,12,1,False,False,False,0.865,0.838,0.851,0.858,0.854,Established,1.0
+6,Traffic volume or intensity,Road and traffic,107,0.2127,50,0.467,0.376,0.561,0.186,2,0.019,0.005,0.066,12,1,False,False,True,0.838,0.865,0.851,0.75,0.8,Established,0.995
+7,Distance or proximity to roads,Road and traffic,158,0.2768,51,0.323,0.255,0.399,0.144,1,0.006,0.001,0.035,14,4,False,False,False,0.919,0.919,0.919,0.682,0.8,Prominent but weakly validated,1.0
+8,Reanalysis or NWP fields,Meteorology,77,0.1479,37,0.481,0.373,0.59,0.218,8,0.104,0.054,0.192,4,2,False,True,True,0.73,0.757,0.744,0.851,0.798,Established,0.494
+9,Population density,Population and settlement,88,0.2075,47,0.534,0.431,0.635,0.204,4,0.045,0.018,0.111,9,1,False,False,False,0.784,0.811,0.798,0.791,0.794,Established,0.932
+10,Chemical-transport or dispersion model output,Hybrid and composite,91,0.142,37,0.407,0.311,0.509,0.198,6,0.066,0.031,0.136,9,0,False,False,False,0.811,0.676,0.744,0.818,0.781,Prominent but weakly validated,0.77
+11,Wind,Meteorology,87,0.1699,35,0.402,0.306,0.507,0.202,1,0.011,0.002,0.062,11,2,False,True,True,0.757,0.784,0.77,0.615,0.692,Prominent but weakly validated,0.546
+12,Industrial or point-source proximity,Industrial and point sources,72,0.1467,32,0.444,0.335,0.559,0.224,2,0.028,0.008,0.096,3,0,False,False,False,0.703,0.73,0.716,0.655,0.686,Prominent but weakly validated,0.164
+13,Satellite remote sensing (general),Satellite atmospheric,64,0.0998,29,0.453,0.337,0.574,0.237,4,0.062,0.025,0.15,5,1,True,True,True,0.662,0.622,0.642,0.696,0.669,Aggregate (not mapped),
+14,Aerosol optical depth,Satellite atmospheric,53,0.064,22,0.415,0.293,0.549,0.256,6,0.113,0.053,0.226,1,3,False,True,True,0.622,0.541,0.582,0.73,0.656,Prominent but weakly validated,0.001
+15,Temperature,Meteorology,64,0.1136,33,0.516,0.396,0.634,0.238,1,0.016,0.003,0.083,5,3,False,True,True,0.662,0.649,0.656,0.595,0.626,Established,0.082
+16,"Industrial, commercial or port land",Land use and built environment,49,0.1439,33,0.673,0.534,0.788,0.254,1,0.02,0.004,0.107,4,3,False,False,False,0.595,0.703,0.649,0.595,0.622,Established,0.018
+17,Composite index or data fusion,Hybrid and composite,19,0.0415,12,0.632,0.41,0.809,0.398,3,0.158,0.055,0.376,3,0,False,False,False,0.351,0.432,0.391,0.608,0.5,Validated but peripheral,0.0
+18,Green space or tree canopy,Vegetation and land surface,28,0.0618,12,0.429,0.265,0.609,0.344,1,0.036,0.006,0.177,2,1,False,False,False,0.486,0.514,0.5,0.493,0.496,Prominent but weakly validated,0.0
+19,Humidity and precipitation,Meteorology,44,0.084,20,0.455,0.317,0.599,0.282,0,0.0,0.0,0.08,3,1,False,True,True,0.568,0.568,0.568,0.385,0.476,Prominent but weakly validated,0.0
+20,Road density or length,Road and traffic,34,0.0908,15,0.441,0.289,0.605,0.317,0,0.0,0.0,0.102,1,1,False,False,False,0.514,0.595,0.554,0.372,0.463,Prominent but weakly validated,0.0
+21,Settlement and socio-economic status,Population and settlement,39,0.0593,7,0.179,0.09,0.327,0.237,1,0.026,0.005,0.132,7,0,False,False,False,0.541,0.486,0.514,0.399,0.456,Prominent but weakly validated,0.0
+22,Emission inventory,Industrial and point sources,27,0.0339,11,0.407,0.245,0.593,0.348,1,0.037,0.007,0.183,1,1,False,False,False,0.459,0.405,0.432,0.459,0.446,Under-studied,0.0
+23,"Vegetation index (NDVI, EVI)",Vegetation and land surface,25,0.0473,12,0.48,0.3,0.665,0.365,0,0.0,0.0,0.133,0,1,False,False,True,0.432,0.459,0.446,0.345,0.395,Validated but peripheral,0.0
+24,"Stability, inversion, radiation",Meteorology,14,0.0279,7,0.5,0.268,0.732,0.464,2,0.143,0.04,0.399,0,0,False,True,True,0.27,0.351,0.31,0.48,0.395,Validated but peripheral,0.0
+25,Other satellite trace gas,Satellite atmospheric,12,0.0199,9,0.75,0.468,0.911,0.443,2,0.167,0.047,0.448,0,0,False,True,True,0.243,0.297,0.27,0.507,0.388,Validated but peripheral,0.0
+26,Household fuel use,Population and settlement,21,0.0306,11,0.524,0.324,0.717,0.393,0,0.0,0.0,0.155,4,4,False,False,False,0.392,0.378,0.385,0.311,0.348,Validated but peripheral,0.0
+27,Biomass and open burning,Fire and smoke,21,0.0252,7,0.333,0.172,0.546,0.374,0,0.0,0.0,0.155,0,0,False,True,True,0.392,0.324,0.358,0.25,0.304,Under-studied,0.0
+28,Tropospheric NO2 column,Satellite atmospheric,16,0.0183,10,0.625,0.386,0.815,0.429,0,0.0,0.0,0.194,1,1,False,True,True,0.311,0.27,0.29,0.291,0.29,Validated but peripheral,0.0
+29,Boundary-layer height,Meteorology,9,0.0176,2,0.222,0.063,0.547,0.484,1,0.111,0.02,0.435,1,0,False,True,True,0.189,0.243,0.216,0.284,0.25,Under-studied,0.0
+30,Wildfire smoke,Fire and smoke,16,0.0155,5,0.312,0.142,0.556,0.414,0,0.0,0.0,0.194,4,0,False,True,True,0.311,0.189,0.25,0.209,0.229,Under-studied,0.0
+31,Street configuration,Road and traffic,7,0.0157,5,0.714,0.359,0.918,0.559,0,0.0,0.0,0.354,0,0,False,False,False,0.108,0.216,0.162,0.209,0.186,Validated but peripheral,0.0
+32,Other land-surface state,Vegetation and land surface,8,0.0082,5,0.625,0.306,0.863,0.557,0,0.0,0.0,0.324,0,0,False,False,False,0.135,0.054,0.094,0.209,0.152,Validated but peripheral,0.0
+33,Land surface temperature,Vegetation and land surface,4,0.0111,4,1.0,0.51,1.0,0.49,0,0.0,0.0,0.49,0,0,False,False,True,0.068,0.162,0.115,0.176,0.146,Validated but peripheral,0.0
+34,Fire activity and burned area,Fire and smoke,9,0.0098,2,0.222,0.063,0.547,0.484,0,0.0,0.0,0.299,0,1,False,True,True,0.189,0.108,0.148,0.135,0.142,Under-studied,0.0
+35,Visibility or visual range,Meteorology,9,0.0057,4,0.444,0.189,0.733,0.545,0,0.0,0.0,0.299,0,1,False,True,True,0.189,0.027,0.108,0.176,0.142,Under-studied,0.0
+36,Night-time lights,Population and settlement,4,0.0105,1,0.25,0.046,0.699,0.654,0,0.0,0.0,0.49,0,0,False,False,False,0.068,0.135,0.102,0.115,0.108,Under-studied,0.0
+37,Distance to coast or water,Topography,3,0.0094,3,1.0,0.438,1.0,0.562,0,0.0,0.0,0.562,0,0,False,False,False,0.027,0.081,0.054,0.155,0.104,Validated but peripheral,0.0

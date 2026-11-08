@@ -1,0 +1,200 @@
+{
+ "rho_prominence_vs_validation_counts": [
+  0.931,
+  6.431309370293684e-17
+ ],
+ "rho_records_vs_validated_counts": [
+  0.966,
+  3.601326544438219e-22
+ ],
+ "rho_prominence_vs_validation_rate": [
+  -0.064,
+  0.70675487772905
+ ],
+ "rho_records_vs_validation_rate": [
+  -0.122,
+  0.47342047584094726
+ ],
+ "rho_prominence_vs_strong_rate": [
+  0.475,
+  0.0029801656950379472
+ ],
+ "partial_rho_prom_val_given_records": [
+  0.529,
+  0.0007580664198800269
+ ],
+ "n_wellmeasured": 21,
+ "wellmeasured_rate_min": [
+  "Settlement and socio-economic status",
+  0.179
+ ],
+ "wellmeasured_rate_max": [
+  "Industrial, commercial or port land",
+  0.673
+ ],
+ "wellmeasured_rate_median": 0.455,
+ "wellmeasured_rho_records_vs_rate": [
+  0.157,
+  0.497854896876352
+ ],
+ "wellmeasured_strong_rate_median": 0.026,
+ "wellmeasured_strong_rate_max": [
+  "Aerosol optical depth",
+  0.113
+ ],
+ "wellmeasured_n_zero_strong": 5,
+ "median_prominence": 0.473,
+ "median_validation_rate": 0.463,
+ "quadrant_counts": {
+  "Prominent but weakly validated": 10,
+  "Validated but peripheral": 10,
+  "Under-studied": 7,
+  "Established": 7
+ },
+ "quad::Established": [
+  "Land use or land cover class",
+  "Elevation and terrain",
+  "Traffic volume or intensity",
+  "Population density",
+  "Reanalysis or NWP fields",
+  "Temperature",
+  "Industrial, commercial or port land"
+ ],
+ "quad::Prominent but weakly validated": [
+  "Built-up or impervious surface",
+  "Distance or proximity to roads",
+  "Wind",
+  "Chemical-transport or dispersion model output",
+  "Industrial or point-source proximity",
+  "Aerosol optical depth",
+  "Humidity and precipitation",
+  "Road density or length",
+  "Settlement and socio-economic status",
+  "Green space or tree canopy"
+ ],
+ "quad::Under-studied": [
+  "Emission inventory",
+  "Biomass and open burning",
+  "Wildfire smoke",
+  "Boundary-layer height",
+  "Fire activity and burned area",
+  "Visibility or visual range",
+  "Night-time lights"
+ ],
+ "quad::Validated but peripheral": [
+  "Vegetation index (NDVI, EVI)",
+  "Composite index or data fusion",
+  "Household fuel use",
+  "Stability, inversion, radiation",
+  "Tropospheric NO2 column",
+  "Other satellite trace gas",
+  "Street configuration",
+  "Land surface temperature",
+  "Other land-surface state",
+  "Distance to coast or water"
+ ],
+ "bootstrap_B": 2000,
+ "rho_counts_boot_ci": [
+  0.906,
+  0.968
+ ],
+ "rho_rate_boot_ci": [
+  -0.374,
+  0.094
+ ],
+ "published_top8": [
+  "Built-up or impervious surface",
+  "Chemical-transport or dispersion model output",
+  "Distance or proximity to roads",
+  "Elevation and terrain",
+  "Land use or land cover class",
+  "Population density",
+  "Reanalysis or NWP fields",
+  "Traffic volume or intensity"
+ ],
+ "published_top8_stability": {
+  "Built-up or impervious surface": 1.0,
+  "Chemical-transport or dispersion model output": 0.77,
+  "Distance or proximity to roads": 1.0,
+  "Elevation and terrain": 1.0,
+  "Land use or land cover class": 1.0,
+  "Population density": 0.932,
+  "Reanalysis or NWP fields": 0.494,
+  "Traffic volume or intensity": 0.995
+ },
+ "stability_min_in_published_top8": 0.494,
+ "top8_weight_validation_0.00": [
+  "Built-up or impervious surface",
+  "Chemical-transport or dispersion model output",
+  "Distance or proximity to roads",
+  "Elevation and terrain",
+  "Land use or land cover class",
+  "Population density",
+  "Traffic volume or intensity",
+  "Wind"
+ ],
+ "top8_overlap_with_published_w0.00": 7,
+ "top8_weight_validation_0.25": [
+  "Built-up or impervious surface",
+  "Chemical-transport or dispersion model output",
+  "Distance or proximity to roads",
+  "Elevation and terrain",
+  "Land use or land cover class",
+  "Population density",
+  "Reanalysis or NWP fields",
+  "Traffic volume or intensity"
+ ],
+ "top8_overlap_with_published_w0.25": 8,
+ "top8_weight_validation_0.50": [
+  "Built-up or impervious surface",
+  "Chemical-transport or dispersion model output",
+  "Distance or proximity to roads",
+  "Elevation and terrain",
+  "Land use or land cover class",
+  "Population density",
+  "Reanalysis or NWP fields",
+  "Traffic volume or intensity"
+ ],
+ "top8_overlap_with_published_w0.50": 8,
+ "top8_weight_validation_0.75": [
+  "Built-up or impervious surface",
+  "Chemical-transport or dispersion model output",
+  "Distance or proximity to roads",
+  "Elevation and terrain",
+  "Land use or land cover class",
+  "Population density",
+  "Reanalysis or NWP fields",
+  "Traffic volume or intensity"
+ ],
+ "top8_overlap_with_published_w0.75": 8,
+ "top8_weight_validation_1.00": [
+  "Aerosol optical depth",
+  "Built-up or impervious surface",
+  "Chemical-transport or dispersion model output",
+  "Elevation and terrain",
+  "Land use or land cover class",
+  "Population density",
+  "Reanalysis or NWP fields",
+  "Traffic volume or intensity"
+ ],
+ "top8_overlap_with_published_w1.00": 7,
+ "label_conflicts": [
+  [
+   "Land surface temperature",
+   "Vegetation and land surface"
+  ],
+  [
+   "Traffic volume or intensity",
+   "Road and traffic"
+  ],
+  [
+   "Vegetation index (NDVI, EVI)",
+   "Vegetation and land surface"
+  ]
+ ],
+ "label_conflicts_in_published_top20": [
+  "Traffic volume or intensity",
+  "Vegetation index (NDVI, EVI)",
+  "Land surface temperature"
+ ]
+}

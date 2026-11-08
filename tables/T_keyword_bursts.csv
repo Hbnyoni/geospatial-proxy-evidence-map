@@ -1,0 +1,26 @@
+keyword,n,strength,begin,end
+GIS,65,12.7,2001,2009
+machine learning,28,9.58,2021,2025
+traffic,65,8.41,2003,2010
+air quality,27,6.19,2022,2025
+exposure assessment,78,5.59,2005,2007
+aerosol optical depth,25,4.93,2021,2025
+random forest,15,4.37,2020,2024
+particulate matter,57,4.34,2007,2008
+epidemiology,34,4.02,1995,2006
+NOx,15,3.04,2012,2018
+vehicle emissions,8,2.9,2003,2012
+allergy,6,2.54,2007,2012
+asthma,25,2.51,2004,2013
+deep learning,7,2.4,2020,2025
+spatial variability,15,2.37,2011,2018
+COVID-19,5,2.28,2020,2024
+dispersion model,17,2.26,1999,2011
+remote sensing,20,2.04,2020,2025
+PM2.5,66,2.01,2018,2020
+India,5,2.0,2020,2025
+children,16,1.99,2006,2014
+geostatistics,12,1.97,2013,2016
+birth cohort,5,1.86,2013,2016
+pregnancy,10,1.84,2007,2011
+spatial analysis,6,1.82,2006,2009

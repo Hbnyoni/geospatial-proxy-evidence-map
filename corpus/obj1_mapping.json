@@ -1,0 +1,83 @@
+{
+ "n_candidates": 60,
+ "n_literature_proxies_covered": 22,
+ "n_named": 34,
+ "top20_covered": 14,
+ "top10_covered": 7,
+ "top20_missing": [
+  "Traffic volume or intensity",
+  "Chemical-transport or dispersion model output",
+  "Industrial or point-source proximity",
+  "Composite index or data fusion",
+  "Green space or tree canopy",
+  "Emission inventory"
+ ],
+ "covered_low_ranked": [
+  "Stability, inversion, radiation",
+  "Other satellite trace gas",
+  "Tropospheric NO2 column",
+  "Boundary-layer height",
+  "Other land-surface state",
+  "Land surface temperature",
+  "Fire activity and burned area",
+  "Night-time lights"
+ ],
+ "pooled_selected": [
+  [
+   "WRND_km_km2",
+   "Road density or length"
+  ],
+  [
+   "EH_m",
+   "Distance or proximity to roads"
+  ],
+  [
+   "EM_m",
+   "Distance or proximity to roads"
+  ],
+  [
+   "RH",
+   "Humidity and precipitation"
+  ],
+  [
+   "AOD_S5P",
+   "Aerosol optical depth"
+  ],
+  [
+   "TP",
+   "Humidity and precipitation"
+  ],
+  [
+   "fire_25km",
+   "Fire activity and burned area"
+  ],
+  [
+   "road_access_min_mean",
+   "Distance or proximity to roads"
+  ],
+  [
+   "BLH_range",
+   "Boundary-layer height"
+  ]
+ ],
+ "selected_literature_proxies": [
+  "Aerosol optical depth",
+  "Boundary-layer height",
+  "Distance or proximity to roads",
+  "Fire activity and burned area",
+  "Humidity and precipitation",
+  "Land surface temperature",
+  "Night-time lights",
+  "Other land-surface state",
+  "Other satellite trace gas",
+  "Road density or length",
+  "Stability, inversion, radiation",
+  "Temperature",
+  "Wind"
+ ],
+ "selected_median_rank": 24.0,
+ "unselected_median_rank": 15.5,
+ "n_selected_unforced": 19,
+ "selected_dynamic_share": 0.7894736842105263,
+ "unselected_dynamic_share": 0.39473684210526316
+}

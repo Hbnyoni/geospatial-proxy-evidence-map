@@ -1,0 +1,9 @@
+theme,size,occurrences,centrality,density,label,members,quadrant
+0,11,231,9649.50241373078,3858.6325063330405,"exposure assessment, PM2.5, traffic-related air pollution",exposure assessment; PM2.5; traffic-related air pollution; dispersion model; random forest; NOx; elemental carbon; population exposure; China; air quality modeling; emissions,Basic
+1,9,214,9616.560655404552,5949.379208013242,"land use regression, machine learning, air quality",land use regression; machine learning; air quality; black carbon; ultrafine particles; mobile monitoring; deep learning; land use; low-cost sensors,Basic
+2,8,160,10169.77410059892,7755.668093124824,"GIS, traffic, VOCs",GIS; traffic; VOCs; spatial analysis; aerosol; passive samplers; environmental justice; diesel,Motor
+3,10,115,9470.477959640102,8653.90123638344,"epidemiology, asthma, children",epidemiology; asthma; children; long-term exposure; environmental exposure; allergy; birth cohort; lung function; meta-analysis; measurement error,Motor
+4,7,106,9441.610928204344,9684.393031699483,"NO2, spatial variability, PM10",NO2; spatial variability; PM10; urban air pollution; traffic emissions; infant; benzene,Niche
+5,8,106,7156.561955021135,5589.069107744108,"aerosol optical depth, remote sensing, spatiotemporal modelling",aerosol optical depth; remote sensing; spatiotemporal modelling; geostatistics; health effects; ozone; wildfire; spatial prediction,Emerging or declining
+6,7,89,6880.415046888662,7361.743107769424,"particulate matter, personal exposure, India",particulate matter; personal exposure; India; COVID-19; noise; household air pollution; cardiovascular,Emerging or declining
+7,8,53,7990.103883039561,20327.25480769231,"mortality, pregnancy, vehicle emissions",mortality; pregnancy; vehicle emissions; cohort study; carbon monoxide; greenness; preterm birth; birth weight,Niche

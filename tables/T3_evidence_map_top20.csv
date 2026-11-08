@@ -1,0 +1,21 @@
+Proxy,Family,Temporal,Records,Freq / cent. pct,Prominence,Validated k/n,Validation rate (95% CI),Spatial or external,Personal,SSA,Evidence quadrant,Stability
+Land use or land cover class,Land use and built environment,static,219,0.97 / 1.00,0.99,139/219,0.64 (0.57-0.70),17,21,4,Established,1.00
+Built-up or impervious surface,Land use and built environment,static,172,0.95 / 0.95,0.95,79/172,0.46 (0.39-0.53),8,18,4,"Prominent, weakly validated",1.00
+Distance or proximity to roads,Road and traffic,static,158,0.92 / 0.92,0.92,51/158,0.32 (0.26-0.40),1,14,4,"Prominent, weakly validated",1.00
+Elevation and terrain,Topography,static,111,0.86 / 0.84,0.85,52/111,0.47 (0.38-0.56),5,12,1,Established,1.00
+Traffic volume or intensity,Road and traffic,dynamic,107,0.84 / 0.86,0.85,50/107,0.47 (0.38-0.56),2,12,1,Established,0.99
+Population density,Population and settlement,static,88,0.78 / 0.81,0.80,47/88,0.53 (0.43-0.64),4,9,1,Established,0.93
+Wind,Meteorology,dynamic,87,0.76 / 0.78,0.77,35/87,0.40 (0.31-0.51),1,11,2,"Prominent, weakly validated",0.55
+Reanalysis or NWP fields,Meteorology,dynamic,77,0.73 / 0.76,0.74,37/77,0.48 (0.37-0.59),8,4,2,Established,0.49
+Chemical-transport or dispersion model output,Hybrid and composite,static,91,0.81 / 0.68,0.74,37/91,0.41 (0.31-0.51),6,9,0,"Prominent, weakly validated",0.77
+Industrial or point-source proximity,Industrial and point sources,static,72,0.70 / 0.73,0.72,32/72,0.44 (0.34-0.56),2,3,0,"Prominent, weakly validated",0.16
+Temperature,Meteorology,dynamic,64,0.66 / 0.65,0.66,33/64,0.52 (0.40-0.63),1,5,3,Established,0.08
+"Industrial, commercial or port land",Land use and built environment,static,49,0.59 / 0.70,0.65,33/49,0.67 (0.53-0.79),1,4,3,Established,0.02
+Aerosol optical depth,Satellite atmospheric,dynamic,53,0.62 / 0.54,0.58,22/53,0.41 (0.29-0.55),6,1,3,"Prominent, weakly validated",0.00
+Humidity and precipitation,Meteorology,dynamic,44,0.57 / 0.57,0.57,20/44,0.46 (0.32-0.60),0,3,1,"Prominent, weakly validated",0.00
+Road density or length,Road and traffic,static,34,0.51 / 0.59,0.55,15/34,0.44 (0.29-0.60),0,1,1,"Prominent, weakly validated",0.00
+Settlement and socio-economic status,Population and settlement,static,39,0.54 / 0.49,0.51,7/39,0.18 (0.09-0.33),1,7,0,"Prominent, weakly validated",0.00
+Green space or tree canopy,Vegetation and land surface,static,28,0.49 / 0.51,0.50,12/28,0.43 (0.27-0.61),1,2,1,"Prominent, weakly validated",0.00
+"Vegetation index (NDVI, EVI)",Vegetation and land surface,dynamic,25,0.43 / 0.46,0.45,12/25,0.48 (0.30-0.67),0,0,1,"Validated, peripheral",0.00
+Emission inventory,Industrial and point sources,static,27,0.46 / 0.41,0.43,11/27,0.41 (0.24-0.59),1,1,1,Under-studied,0.00
+Composite index or data fusion,Hybrid and composite,static,19,0.35 / 0.43,0.39,12/19,0.63 (0.41-0.81),3,3,0,"Validated, peripheral",0.00

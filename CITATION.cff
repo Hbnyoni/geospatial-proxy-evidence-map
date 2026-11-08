@@ -7,15 +7,15 @@ authors:
   - family-names: "Nyoni"
     given-names: "Handsome Bongani"
     affiliation: "Midlands State University; University of Cape Town"
-    # orcid: https://orcid.org/0000-0000-0000-0000  # TODO add
+    orcid: "https://orcid.org/0009-0002-1332-8606"
   - family-names: "Mphuthi"
     given-names: "Siphiwe"
     affiliation: "University of Cape Town"
-    # orcid: https://orcid.org/0000-0000-0000-0000  # TODO add
+    orcid: "https://orcid.org/0000-0002-6691-9912"
   - family-names: "Makanga"
     given-names: "Prestige Tatenda"
     affiliation: "Midlands State University; Liverpool School of Tropical Medicine; CeSHHAR Zimbabwe"
-    # orcid: https://orcid.org/0000-0000-0000-0000  # TODO add
+    orcid: "https://orcid.org/0000-0002-9025-2564"
 keywords:
   - air pollution
   - exposure assessment
@@ -24,3 +24,7 @@ keywords:
   - evidence map
   - validation
   - sub-Saharan Africa
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.24053000"
+    description: Archive of this repository

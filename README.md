@@ -8,7 +8,7 @@ It is released under CC BY 4.0.
 exposure assessment: a bibliometric and validation evidence map with implications for
 Sub-Saharan Africa. Under review.
 
-**Archive DOI.** Minted by Zenodo from the first release of this repository.
+**Archive DOI.** [10.5281/zenodo.24053000](https://doi.org/10.5281/zenodo.24053000)
 
 ## What is here
 
